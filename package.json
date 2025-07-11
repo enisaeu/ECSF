@@ -15,7 +15,7 @@
     "react-bootstrap": "^2.10.9",
     "react-bootstrap-icons": "^1.11.5",
     "react-dom": "^19.1.0",
-    "react-router-dom": "^7.4.1",
+    "react-router-dom": "^7.6.3",
     "react-scripts": "5.0.1",
     "react-scroll": "^1.9.3",
     "web-vitals": "^2.1.4"
