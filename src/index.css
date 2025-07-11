@@ -1,0 +1,78 @@
+/* ECSF Web Tool Stylesheet */
+html, body {
+	font-family: "Raleway", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 400;
+	font-style: normal;
+}
+body {
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	padding-top: 36px;
+}
+
+table.ecsf-profile {
+	margin-bottom: 35px;
+	width: 100%;
+}
+table.ecsf-profile > tr > th,
+table.ecsf-profile > tbody > tr > th {
+	width: 170px;
+}
+table.ecsf-profile > tr > th,
+table.ecsf-profile > tr > td,
+table.ecsf-profile > thead > tr > th,
+table.ecsf-profile > thead > tr > td,
+table.ecsf-profile > tbody > tr > th,
+table.ecsf-profile > tbody > tr > td {
+	border: 1px solid #cccccc;
+	border-width: 1px;
+	padding: 4px 8px;
+}
+table.ecsf-profile > tr:first-child > th,
+table.ecsf-profile > tr:first-child > td,
+table.ecsf-profile > thead > tr:first-child > th,
+table.ecsf-profile > thead > tr:first-child > td {
+	font-weight: bold;
+	background-color: rgb(0, 79, 159);
+	color: white;
+}
+
+table.ecf {
+
+}
+table.eCompetences > tr > th,
+table.eCompetences > tr > td,
+table.eCompetences > tbody > tr > th,
+table.eCompetences > tbody > tr > td {
+	border: 1px solid #cccccc;
+	border-width: 1px;
+	padding: 4px 8px;
+}
+table.eCompetences .eCompetence-area {
+	background-color: rgb(0, 79, 159);
+	color: white;
+}
+table.eCompetences .eCompetence-level {
+	text-align: center;
+}
+table.eCompetences .eCompetence-level.eCompetence-level-active {
+	background-color: orange;
+}
+table.eCompetences .eCompetence-level.eCompetence-level-active input[type="checkbox"] {
+	width: 28px;
+	height: 28px;
+}
+
+table.ecsf-tasks,
+table.ecsf-skills,
+table.ecsf-knowledge-list {
+	width: 100%;
+}
+table.ecsf-tasks > tbody > tr > td,
+table.ecsf-skills > tbody > tr > td,
+table.ecsf-knowledge-list > tbody > tr > td {
+	border: 1px solid #cccccc;
+	border-width: 1px;
+	padding: 4px 8px;
+}

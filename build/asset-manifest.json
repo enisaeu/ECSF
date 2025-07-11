@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ecsf-dev/static/css/main.415f7465.css",
+    "main.js": "/ecsf-dev/static/js/main.4595454d.js",
+    "static/media/ecsf-logo-dark.svg": "/ecsf-dev/static/media/ecsf-logo-dark.71f0cf59713d9d5f71d50b0317148d03.svg",
+    "static/media/ecsf-logo-text-white.svg": "/ecsf-dev/static/media/ecsf-logo-text-white.9d673ac95065f670b0895055d955d599.svg",
+    "index.html": "/ecsf-dev/index.html",
+    "main.415f7465.css.map": "/ecsf-dev/static/css/main.415f7465.css.map",
+    "main.4595454d.js.map": "/ecsf-dev/static/js/main.4595454d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.415f7465.css",
+    "static/js/main.4595454d.js"
+  ]
+}

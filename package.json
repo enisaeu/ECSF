@@ -1,0 +1,49 @@
+{
+  "name": "ECSF Tool",
+  "homepage": "http://gramthanos.github.io/ecsf-dev",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^13.5.0",
+    "d3": "^7.9.0",
+    "d3-sankey": "^0.12.3",
+    "preval.macro": "^5.0.0",
+    "react": "^19.1.0",
+    "react-bootstrap": "^2.10.9",
+    "react-bootstrap-icons": "^1.11.5",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.4.1",
+    "react-scripts": "5.0.1",
+    "react-scroll": "^1.9.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build:website": "react-scripts build",
+    "build:machine-readable": "node scripts/export-machine-readable-formats.js",
+    "build": "npm run build:website && npm run build:machine-readable",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

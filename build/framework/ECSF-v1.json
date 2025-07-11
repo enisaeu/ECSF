@@ -1,0 +1,896 @@
+{
+  "metadata": {
+    "name": "European Cybersecurity Skills Framework (ECSF)",
+    "short": "ECSF",
+    "version": "v1",
+    "date-released": "2022-09-19",
+    "date-generated": "2025-06-08"
+  },
+  "role-profiles": [
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjMxMHB0IiBoZWlnaHQ9IjQyOHB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCAzMTAgNDI4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDQyOCkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTU2MyAzOTEzYy0xMy0yLTMyLTE2LTQzLTMwLTE5LTI1LTIwLTQwLTIwLTQyMHYtMzk1bDg3LTk0IDg2LTk0aDg3NSA4NzVsNzYgODFjNDIgNDUgODEgOTUgODggMTEzIDggMjIgMTIgMTQxIDEyIDQwOGwxIDM3Ny00OCA1NmgtMjQyLTI0MmwtMjQtMjhjLTIzLTI2LTI0LTM1LTI0LTE1M3YtMTI0aC05MC05MHYxMjRjMCAxMTgtMSAxMjctMjQgMTUzbC0yNCAyOGgtMjQyLTI0MmwtMjQtMjhjLTIzLTI2LTI0LTM1LTI0LTE1M3YtMTI0aC05MC05MHYxMjRjMCAxMTgtMSAxMjctMjQgMTUzbC0yNCAyOC0yMjQgMWMtMTIyIDEtMjMzIDAtMjQ1LTN6IiBmaWxsPSIjMDA0RjlGIi8+PHBhdGggZD0ibTczNiAyNjk4Yy0zLTEzLTE2LTI1MC0zMC01MjgtMTUtMjc4LTI4LTUyNC0zMS01NDdsLTUtNDNoODgwIDg4MGwtNSAzOGMtMiAyMC0xNiAyNjctMzEgNTQ3LTE0IDI4MS0yNyA1MjAtMzAgNTMzbC00IDIyaC04MTAtODEwbC00LTIyeiIgZmlsbD0iIzAwNEY5RiIvPjxwYXRoIGQ9Im01NTIgMTMzMGMtMzQtNDUtNjItODMtNjItODUgMC0zIDQ3Ny01IDEwNjAtNXMxMDYwIDIgMTA2MCA1YzAgMi0yOCA0MC02MiA4NWwtNjEgODBoLTkzNy05MzdsLTYxLTgweiIgZmlsbD0iIzAwNEY5RiIvPjxwYXRoIGQ9Im00NDAgODA3di0yNzNsLTMwLTExYy01Ny0yMS02My0xMTMtMTAtMTQwIDM2LTE4IDIyNjQtMTggMjMwMCAwIDUzIDI3IDQ3IDExOS0xMCAxNDBsLTMwIDExdjI3MyAyNzNoLTExMTAtMTExMHYtMjczeiIgZmlsbD0iIzAwNEY5RiIvPjwvZz48L3N2Zz4=",
+      "title": "Chief Information Security Officer (CISO)",
+      "alternative-titles": [
+        "Chief Information Security Officer (CISO)",
+        "Cybersecurity Programme Director",
+        "Head of Information Security",
+        "Information Security Manager",
+        "Information Security Officer (ISO)",
+        "IT/ICT Security Officer"
+      ],
+      "summary-statement": "Manages an organisation's cybersecurity strategy and its implementation to ensure that digital systems, services and assets are adequately secure and protected.",
+      "mission": "Defines, maintains and communicates the cybersecurity vision, strategy, policies and procedures. Manages the implementation of the cybersecurity policy across the organisation. Assures information exchange with external authorities and professional bodies.",
+      "deliverables": [
+        "Cybersecurity Policy",
+        "Cybersecurity Strategy"
+      ],
+      "main-tasks": [
+        "Define, implement, communicate and maintain cybersecurity goals, requirements, strategies, policies, aligned with the business strategy to support the organisational objectives",
+        "Develop cybersecurity plans",
+        "Develop relationships with cybersecurity-related authorities and communities",
+        "Educate senior management about cybersecurity risks, threats and their impact to the organisation",
+        "Ensure the organisation's resiliency to cyber incidents",
+        "Ensure the senior management approves the cybersecurity risks of the organisation",
+        "Manage continuous capacity building within the organisation",
+        "Monitor advancement in cybersecurity",
+        "Negotiate the cybersecurity budget with the senior management",
+        "Prepare and present cybersecurity vision, strategies and policies for approval by the senior management of the organisation and ensure their execution",
+        "Report cybersecurity incidents, risks, findings to the senior management",
+        "Review, plan and allocate appropriate cybersecurity resources",
+        "Secure resources to implement the cybersecurity strategy",
+        "Supervise the application and improvement of the Information Security Management System (ISMS)"
+      ],
+      "key-skills": [
+        "Analyse and comply with cybersecurity-related laws, regulations and legislations",
+        "Analyse and implement cybersecurity policies, certifications, standards, methodologies and frameworks",
+        "Anticipate cybersecurity threats, needs and upcoming challenges",
+        "Anticipate required changes to the organisation's information security strategy and formulate new plans",
+        "Assess and enhance an organisation's cybersecurity posture",
+        "Communicate, coordinate and cooperate with internal and external stakeholders",
+        "Define and apply maturity models for cybersecurity management",
+        "Design, apply, monitor and review Information Security Management System (ISMS) either directly or by leading its outsourcing",
+        "Develop, champion and lead the execution of a cybersecurity strategy",
+        "Establish a cybersecurity plan",
+        "Identify and solve cybersecurity-related issues",
+        "Implement cybersecurity recommendations and best practices",
+        "Influence an organisation's cybersecurity culture",
+        "Manage cybersecurity resources",
+        "Motivate and encourage people",
+        "Review and enhance security documents, reports, SLAs and ensure the security objectives"
+      ],
+      "key-knowledge": [
+        "Cybersecurity maturity models",
+        "Cybersecurity policies",
+        "Cybersecurity procedures",
+        "Cybersecurity recommendations and best practices",
+        "Cybersecurity related laws, regulations and legislations ",
+        "Cybersecurity standards, methodologies and frameworks",
+        "Cybersecurity-related certifications",
+        "Ethical cybersecurity organisation requirements",
+        "Management practices",
+        "Resource management",
+        "Risk management standards, methodologies and frameworks"
+      ],
+      "e-competences": [
+        {
+          "name": "A.7. Technology Trend Monitoring",
+          "level": 4
+        },
+        {
+          "name": "D.1. Information Security Strategy Development",
+          "level": 5
+        },
+        {
+          "name": "E.3. Risk Management",
+          "level": 4
+        },
+        {
+          "name": "E.8. Information Security Management",
+          "level": 4
+        },
+        {
+          "name": "E.9. Information Systems Governance",
+          "level": 5
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM0MnB0IiBoZWlnaHQ9IjM4MHB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCAzNDIgMzgwIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDM4MCkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTE2NjAgMzQwOWMtMjUtMzMtNzQtODItMTEwLTEwOS0xODMtMTQwLTU4My0yMTUtOTU1LTE3OS03NyA3LTE2NyAxMy0yMDAgMTRoLTU5bC04LTQwYy01LTIyLTctNDEzLTYtODcwIDQtODIwIDQtODMxIDI2LTkwOSA3My0yNjQgMjgyLTQ4NSA2NjMtNzA0IDE4OS0xMDkgNjE5LTI4MiA3MDAtMjgyIDQzIDAgNTA5IDE5MCA2NzkgMjc2IDE0OCA3NSAyODkgMTczIDQyNCAyOTQgMTAzIDkyIDE2MiAxNjYgMjA2IDI1NSA3NSAxNTQgNzMgMTE4IDc3IDk5OCAzIDQzMyAxIDc4Ny00IDc4Ny0xMyAwLTUyMy0yMjQtNTIzLTIzMCAwLTUgMTEwLTczIDIzOS0xNDdsNzMtNDItMzgtMTljLTM4LTE5LTQ4Ny0xOTktODU3LTM0M2wtMTg5LTczIDIyOS02MiAyMjgtNjItMjc1LTEzNWMtMTUxLTc0LTQ1OS0yMjUtNjg0LTMzNnMtNDEwLTIwMC00MTItMTk4Yy0xIDEgMTUwIDE0NCAzMzcgMzE3IDE4NiAxNzMgMzM1IDMxNyAzMzEgMzIxLTQgMy02OSAyNy0xNDQgNTQtNzYgMjYtMTM4IDUwLTEzOCA1NCAwIDMgMTU5IDExMSAzNTMgMjQwbDM1MiAyMzUtMjEyIDQwYy0xMTcgMjItMjEzIDQyLTIxMyA0NXMxNjQgMTI1IDM2NSAyNzFsMzY0IDI2NS0xMDMgMjZjLTIzMiA2MS0zODcgMTU3LTQ0MyAyNzQtOSAxOS0xOSAzNS0yMiAzNC0zIDAtMjYtMjctNTEtNjB6IiBmaWxsPSIjQ0IwNTM4Ii8+PC9nPjwvc3ZnPg==",
+      "title": "Cyber Incident Responder",
+      "alternative-titles": [
+        "Cyber Crisis Expert",
+        "Cyber Fighter /Defender",
+        "Cyber Incident Handler",
+        "Cyber Incident Responder",
+        "Cybersecurity SIEM Manager",
+        "Incident Response Engineer",
+        "Security Operation Analyst (SOC Analyst)",
+        "Security Operations Center (SOC) Analyst"
+      ],
+      "summary-statement": "Monitor the organisation's cybersecurity state, handle incidents during cyber-attacks and assure the continued operations of ICT systems.",
+      "mission": "Monitors and assesses systems' cybersecurity state. Analyses, evaluates and mitigates the impact of cybersecurity incidents. Identifies cyber incidents root causes and malicious actors. According to the organisation's Incident Response Plan, restores systems' and processes' functionalities to an operational state, collecting evidences and documenting actions taken.",
+      "deliverables": [
+        "Cyber Incident Report",
+        "Incident Response Plan"
+      ],
+      "main-tasks": [
+        "Adopt and develop incident handling testing techniques",
+        "Assess and manage technical vulnerabilities",
+        "Contribute to the development, maintenance and assessment of the Incident Response Plan",
+        "Cooperate with key personnel for reporting of security incidents according to applicable legal framework",
+        "Cooperate with Secure Operation Centres (SOCs) and Computer Security Incident Response Teams (CSIRTs)",
+        "Develop, implement and assess procedures related to incident handling",
+        "Document incident results analysis and incident handling actions",
+        "Establish procedures for incident results analysis and incident handling reporting",
+        "Evaluate the resilience of the cybersecurity controls and mitigation actions taken after a cybersecurity or data breach incident",
+        "Identify, analyse, mitigate and communicate cybersecurity incidents",
+        "Measure cybersecurity incidents detection and response effectiveness"
+      ],
+      "key-skills": [
+        "Collect, analyse and correlate cyber threat information originating from multiple sources",
+        "Communicate, present and report to relevant stakeholders",
+        "Manage and analyse log files",
+        "Practice all technical, functional and operational aspects of cybersecurity incident handling and response",
+        "Work on operating systems, servers, clouds and relevant infrastructures",
+        "Work under pressure"
+      ],
+      "key-knowledge": [
+        "Computer networks security",
+        "Computer Security Incident Response Teams (CSIRTs) operation",
+        "Computer systems vulnerabilities",
+        "Cyber threats",
+        "Cybersecurity attack procedures",
+        "Cybersecurity related laws, regulations and legislations ",
+        "Cybersecurity-related certifications",
+        "Incident handling communication procedures",
+        "Incident handling recommendations and best practices",
+        "Incident handling standards, methodologies and frameworks",
+        "Incident handling tools",
+        "Operating systems security",
+        "Secure Operation Centres (SOCs) operation"
+      ],
+      "e-competences": [
+        {
+          "name": "A.7. Technology Trend Monitoring",
+          "level": 3
+        },
+        {
+          "name": "B.2. Component Integration",
+          "level": 2
+        },
+        {
+          "name": "B.3. Testing",
+          "level": 3
+        },
+        {
+          "name": "B.5. Documentation Production",
+          "level": 3
+        },
+        {
+          "name": "C.4. Problem Management",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjQzNXB0IiBoZWlnaHQ9IjMyM3B0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCA0MzUgMzIzIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMyMykgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTIwNzIgMjg1OGMtMTIzLTE5LTIzOC0xMDYtMjkyLTIyMC0xNy0zNS0zMC03Mi0zMC04My0xLTQ1IDYtNDQtNDYzLTQ3bC00NDYtMy0yMy0yMmMtMzEtMzEtMzAtODkgMS0xMTQgMTktMTYgNDAtMTkgMTIzLTE5IDkxIDAgMTAwLTIgOTQtMTctNC0xMC0xMzYtMzQxLTI5My03MzVsLTI4Ny03MThoLTQ0Yy00MyAwLTQ0LTEtMzgtMjcgMTMtNTUgNzQtMTY5IDExOS0yMjQgMTUwLTE4NCA0MjQtMjg4IDY4MS0yNTkgMTA5IDEzIDI0OSA1OCAzMjkgMTA3IDEzMSA4MCAyNDEgMjExIDI4NSAzNDBsMjAgNjItNDYgMy00NyAzLTI4NyA3MjBjLTE1OCAzOTYtMjg4IDcyNi0yODggNzMzIDAgOSA2OCAxMiAzMDggMTJoMzA3bDI0LTU3YzQ5LTExMSAxNjgtMjAxIDI5Ny0yMjQgMTY0LTI5IDM0OSA3MSA0MjAgMjI2bDI1IDU1aDM1MCAzNDlsLTEzLTMyYy03LTE4LTEzOS0zNDktMjkzLTczNWwtMjc5LTcwM2gtNDJjLTQ5IDAtNTEtNC0yNS03NyA2Ny0xODkgMjY0LTM1NCA0OTctNDE0IDExMi0yOSAyODktMjkgNDAwIDAgMTk1IDUyIDMzNyAxNTAgNDQyIDMwNyAzMyA1MCA3MyAxNDUgNzMgMTc1IDAgNS0xOSA5LTQyIDloLTQzbC0yOTAgNzI2Yy0xNTkgMzk5LTI5MSA3MzAtMjkzIDczNXMyNSA5IDYwIDljNTQgMCA2OCA0IDg2IDIzIDIyIDIzIDI4IDYwIDE2IDkyLTE3IDQzLTQwIDQ1LTUwMiA0NWgtNDM5bC03IDM4Yy05IDU3LTUwIDEzNi05NyAxODctOTIgMTAwLTIyMyAxNDUtMzU3IDEyM3ptMTc4LTE4MmMxMTktNjEgMTYzLTIxNSA5NS0zMzItODItMTQwLTI2OC0xNjEtMzgyLTQyLTQzIDQ1LTYzIDk2LTYzIDE2MyAwIDY2IDE2IDEwOCA2MCAxNTkgNzUgODUgMTg1IDEwNSAyOTAgNTJ6bS05MjctMTIwNiAyMjUtNTY1LTQ1Ni0zYy0yNTAtMS00NTcgMC00NjAgMi0yIDMgOTggMjYyIDIyNCA1NzYgMTI1IDMxMyAyMzEgNTY3IDIzNSA1NjMgNC01IDEwOS0yNjIgMjMyLTU3M3ptMjE3NyAxIDIyOC01NzFoLTQ2My00NjNsMjIwIDU1M2MxMjEgMzAzIDIyNCA1NjMgMjI5IDU3NnMxMiAyMSAxNSAxOWMzLTMgMTA4LTI2MyAyMzQtNTc3eiIgZmlsbD0iIzAwNEY5RiIvPjwvZz48L3N2Zz4=",
+      "title": "Cyber Legal, Policy & Compliance Officer",
+      "alternative-titles": [
+        "Cyber Law Consultant",
+        "Cyber Legal Advisor",
+        "Cyber Legal, Policy & Compliance Officer",
+        "Cybersecurity Legal Officer",
+        "Data Compliance Officer",
+        "Data Protection Officer (DPO)",
+        "Governance Risk Compliance (GRC) Consultant",
+        "Information Governance Officer",
+        "IT/ICT Compliance Manager",
+        "Privacy Protection Officer"
+      ],
+      "summary-statement": "Manages compliance with cybersecurity-related standards, legal and regulatory frameworks based on the organisation's strategy and legal requirements.",
+      "mission": "Oversees and assures compliance with cybersecurity- and data-related legal, regulatory frameworks and policies in line with the organisation's strategy and legal requirements. Contributes to the organisation's data protection related actions. Provides legal advice in the development of the organisation's cybersecurity governance processes and recommended remediation strategies/solutions to ensure compliance.",
+      "deliverables": [
+        "Compliance Manual",
+        "Compliance Report"
+      ],
+      "main-tasks": [
+        "Act as a key contact point to handle queries and complaints regarding data processing",
+        "Assist in designing, implementing, auditing and compliance testing activities in order to ensure cybersecurity and privacy compliance",
+        "Conduct privacy impact assessments and develop, maintain, communicate and train upon the privacy policies, procedures",
+        "Contribute to the development of the organisation's cybersecurity strategy, policy and procedures",
+        "Cooperate and share information with authorities and professional groups",
+        "Develop and propose staff awareness training to achieve compliance and foster a culture of data protection within the organization",
+        "Enforce and advocate organisation's data privacy and protection program",
+        "Ensure compliance with and provide legal advice and guidance on data privacy and data protection standards, laws and regulations",
+        "Ensure that data owners, holders, controllers, processors, subjects, internal or external partners and entities are informed about their data protection rights, obligations and responsibilities",
+        "Identify and document compliance gaps",
+        "Manage legal aspects of information security responsibilities and third-party relations",
+        "Monitor audits and data protection related training activities"
+      ],
+      "key-skills": [
+        "Carry out working-life practices of the data protection and privacy issues involved in the implementation of the organisational processes, finance and business strategy",
+        "Collaborate with other team members and colleagues",
+        "Comprehensive understanding of the business strategy, models and products and ability to factor into legal, regulatory and standards' requirements",
+        "Conduct, monitor and review privacy impact assessments using standards, frameworks, acknowledged methodologies and tools",
+        "Explain and communicate data protection and privacy topics to stakeholders and users",
+        "Lead the development of appropriate cybersecurity and privacy policies and procedures that complement the business needs and legal requirements; further ensure its acceptance, comprehension and implementation and communicate it between the involved parties",
+        "Understand legal framework modifications implications to the organisation's cybersecurity and data protection strategy and policies",
+        "Understand, practice and adhere to ethical requirements and standards"
+      ],
+      "key-knowledge": [
+        "Cybersecurity policies",
+        "Cybersecurity related laws, regulations and legislations ",
+        "Cybersecurity standards, methodologies and frameworks",
+        "Legal, regulatory and legislative compliance requirements, recommendations and best practices",
+        "Privacy impact assessment standards, methodologies and frameworks"
+      ],
+      "e-competences": [
+        {
+          "name": "A.1. IS and Business Strategy Alignment",
+          "level": 4
+        },
+        {
+          "name": "D.1. Information Security Strategy Development",
+          "level": 4
+        },
+        {
+          "name": "E.8. Information Security Management",
+          "level": 3
+        },
+        {
+          "name": "E.9. Information Systems Governance",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM2MnB0IiBoZWlnaHQ9IjQxMXB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCAzNjIgNDExIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDQxMSkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTEzNDAgMzc1NGMtMjAxLTM3LTM0MC05MC00ODItMTgzLTI1MC0xNjYtNDIzLTQxOC00ODktNzExLTg0LTM4MCAzNC03ODQgMzExLTEwNjAgMjIwLTIyMSA0OTEtMzMyIDgxMC0zMzMgMjAyIDAgMzQ4IDM0IDUyNyAxMjNsOTEgNDYgOTItMTIyIDkxLTEyMy0xMC01NGMtMTEtNjEtMy0xMTAgMjctMTYxIDEyLTE5IDE0OC0yMDIgMzAzLTQwNiAzMjEtNDIyIDMyNS00MjUgNDM5LTQyNSAxMTAgMSAxODQgNTYgMjE2IDE2MiAxNSA0OSAxMyA5NC04IDE0Ny02IDE2LTE0NCAyMDMtMzA1IDQxNS0zMTcgNDE3LTMzMSA0MzItNDMyIDQ0Ni00NSA2LTQ4IDktMTM2IDEyNy00OSA2Ny05MiAxMjUtOTMgMTMwLTIgNSAxOCAzMiA0NSA2MSAyODIgMjk5IDM3NyA3NTAgMjQzIDExNDktMTA5IDMyNS0zNTkgNTg0LTY4MCA3MDUtMTM2IDUyLTIwNyA2NC0zNzUgNjgtODggMi0xNzEgMS0xODUtMXptMjkwLTIyOWMyOTctNDUgNTQ0LTIyMyA2ODQtNDk0IDY5LTEzNCA5OC0yNTQgOTgtNDExIDAtNzYtNS0xNTItMTUtMTk1LTYwLTI3Ni0yNDEtNTExLTQ4OS02MzYtMjM4LTEyMC01MjctMTMxLTc3MS0yOS0yMDQgODUtMzczIDI0NC00NzYgNDQ3LTEwOSAyMTYtMTIxIDUxNS0zMCA3NDMgNjMgMTU2IDE5MSAzMjAgMzI2IDQxNiAxMTYgODQgMjcyIDE0NSA0MTggMTY0IDk0IDEyIDE1MyAxMSAyNTUtNXoiIGZpbGw9IiNGOUIyMzMiLz48cGF0aCBkPSJtMTQ2MiAzMjk4LTI4LTYyLTU5LTFjLTgxLTItMTU0LTI4LTIwOC03NWwtNDUtNDAtNjIgMjdjLTY4IDMwLTk1IDI1LTk1LTE4IDAtMTkgMTItMzEgNjAtNTZsNjAtMzItMy01MWMtMy00MCAyLTYzIDIzLTEwNiAyNi01MyA4Mi0xMDQgMTE1LTEwNCA4IDAgOTUgMzAgMTkyIDY2bDE3NyA2NyAxMSA0OWMxOSA3OS00IDE1NS02MiAyMTBsLTI5IDI3IDI2IDYwYzMyIDcxIDI4IDEwMS0xNiAxMDEtMjYgMC0zMi02LTU3LTYyeiIgZmlsbD0iI0Y5QjIzMyIvPjxwYXRoIGQ9Im0xOTEyIDI4NDQtOTMtNjYtNDkgNDZjLTI3IDI1LTUwIDQ2LTUyIDQ2cy01NS0yMC0xMTgtNDVjLTczLTI4LTExNC00OS0xMTMtNTcgMi03IDcwLTE5MCAxNTItNDA3bDE0OS0zOTQgNTIgNDljNTEgNDggODYgMTAzIDEwOSAxNzYgMTQgNDIgOCAzOSAxNTYgNjggMTM5IDI2IDE1NSAzMyAxNTUgNjQgMCA0My0yNSA0Ni0xNTkgMTktNjctMTMtMTI0LTIzLTEyNi0yMS0xIDItNCAzOC02IDgybC00IDc4IDk1IDQyYzgzIDM2IDk1IDQ1IDk4IDY4IDIgMTktMyAzMC0xNyAzNy0xNiA5LTM3IDMtMTEwLTI4bC05MC0zOS0zNyA3NWMtMTkgNDEtMzQgNzYtMzIgNzcgMTU0IDEwNiAxODggMTMzIDE4OCAxNTIgMCAxNi0yOCA0NC00MyA0NC03LTEtNTQtMzAtMTA1LTY2eiIgZmlsbD0iI0Y5QjIzMyIvPjxwYXRoIGQ9Im0xMjc1IDI3MDNjLTY2LTI0LTEyMS00Ni0xMjItNDctMi0xLTYtMzQtMTAtNzJsLTgtNjktMTE5LTEyYy0xMjEtMTMtMTQ2LTIyLTE0Ni01MyAwLTM5IDIzLTQ0IDE1MS0zMCA2NiA3IDEyMSAxMSAxMjMgOSAxMC0xMyA0NC0xNDUgMzgtMTUwLTQtNC01MS0yMS0xMDQtMzgtMTAwLTMzLTEyNC01NC05OC04NiAxOC0yMiA0NC0xOSAxNDkgMTZsOTUgMzIgMTgtMjRjMTAtMTMgMzItNDEgNDktNjJzMzAtNDAgMjgtNDFjLTItMi01Ny0zNC0xMjEtNzFzLTExOS03NC0xMjItODJjLTktMjMgMTItNTMgMzctNTMgMTIgMSA3OCAzNCAxNDYgNzRsMTI0IDcyIDc2LTM4YzU2LTI5IDkzLTQwIDE0MS00NCAxMjMtMTEgMTI3LTQzLTQ0IDQwOC04MyAyMTgtMTUzIDM5OS0xNTYgNDAxLTMgMy01OS0xNS0xMjUtNDB6IiBmaWxsPSIjRjlCMjMzIi8+PC9nPjwvc3ZnPg==",
+      "title": "Cyber Threat Intelligence Specialist",
+      "alternative-titles": [
+        "Cyber Intelligence Analyst",
+        "Cyber Threat Intelligence Specialist",
+        "Cyber Threat Modeller"
+      ],
+      "summary-statement": "Collect, process, analyse data and information to produce actionable intelligence reports and disseminate them to target stakeholders.",
+      "mission": "Manages cyber threat intelligence life cycle including cyber threat information collection, analysis and production of actionable intelligence and dissemination to security stakeholders and the CTI community, at a tactical, operational and strategic level. Identifies and monitors the Tactics, Techniques and Procedures (TTPs) used by cyber threat actors and their trends, track threat actors' activities and observe how non-cyber events can influence cyber-related actions.",
+      "deliverables": [
+        "Cyber Threat Intelligence Manual",
+        "Cyber Threat Report"
+      ],
+      "main-tasks": [
+        "Articulate and communicate intelligence openly and publicly at all levels",
+        "Convey the proper security severity by explaining the risk exposure and its consequences to non-technical stakeholders",
+        "Coordinate with stakeholders to share and consume intelligence on relevant cyber threats",
+        "Develop plans and procedures to manage threat intelligence",
+        "Develop, implement and manage the organisation's cyber threat intelligence strategy",
+        "Elaborate and advise on mitigation plans at the tactical, operational and strategic level",
+        "Identify and assess cyber threat actors targeting the organisation",
+        "Identify, monitor and assess the Tactics, Techniques and Procedures (TTPs) used by cyber threat actors by analysing open-source and proprietary data, information and intelligence",
+        "Implement threat intelligence collection, analysis and production of actionable intelligence and dissemination to security stakeholders",
+        "Leverage intelligence data to support and assist with threat modelling, recommendations for Risk Mitigation and cyber threat hunting",
+        "Produce actionable reports based on threat intelligence data",
+        "Translate business requirements into Intelligence Requirements"
+      ],
+      "key-skills": [
+        "Automate threat intelligence management procedures",
+        "Collaborate with other team members and colleagues",
+        "Collect, analyse and correlate cyber threat information originating from multiple sources",
+        "Communicate, coordinate and cooperate with internal and external stakeholders",
+        "Communicate, present and report to relevant stakeholders",
+        "Conduct technical analysis and reporting",
+        "Identify non-cyber events with implications on cyber-related activities",
+        "Identify threat actors TTPs and campaigns",
+        "Model threats, actors and TTPs",
+        "Use and apply CTI platforms and tools"
+      ],
+      "key-knowledge": [
+        "Advanced and persistent cyber threats (APT)",
+        "Computer networks security",
+        "Computer programming",
+        "Cross-domain and border-domain knowledge related to cybersecurity",
+        "Cyber threat actors",
+        "Cyber Threat Intelligence (CTI) sharing standards, methodologies and frameworks",
+        "Cyber threats",
+        "Cybersecurity attack procedures",
+        "Cybersecurity controls and solutions",
+        "Cybersecurity-related certifications",
+        "Operating systems security",
+        "Responsible information disclosure procedures",
+        "Threat actors Tactics, Techniques and Procedures (TTPs)"
+      ],
+      "e-competences": [
+        {
+          "name": "B.5. Documentation Production",
+          "level": 3
+        },
+        {
+          "name": "D.7. Data Science and Analytics",
+          "level": 4
+        },
+        {
+          "name": "D.10. Information and Knowledge Management",
+          "level": 4
+        },
+        {
+          "name": "E.4. Relationship Management",
+          "level": 3
+        },
+        {
+          "name": "E.8. Information Security Management",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM0NHB0IiBoZWlnaHQ9IjMzOHB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCAzNDQgMzM4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMzOCkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTE1NTUgMzA3OWMtMTU3LTE1LTM1NS03My01MDMtMTQ4LTEyMy02Mi0xMjMtODQtNS0yMzUgMTUzLTE5NiAxNzItMjE2IDIwMi0yMTYgMTYgMCA1NyAxMyA5MyAyOSAxMTMgNTIgMTc5IDY1IDMzMyA2NSAxODEgMSAyMTEtNSAyMjktNDcgMTgtNDUgNjctODQgMTE2LTkyIDUzLTkgMTI3IDI2IDE1MyA3MiAzOCA2NyAxNiAxNjUtNDUgMjAzLTUzIDMyLTk1IDM0LTE0OSA3LTQ2LTIyLTUxLTIzLTEyMS0xMS04OCAxNi0yMzAgMTctMzE4IDQtMzYtNi0xMTEtMjUtMTY4LTQyLTY4LTIxLTEwNi0yOC0xMTAtMjEtNCA1LTM0IDQ1LTY2IDg3LTM2IDQ2LTU2IDgwLTUwIDg2IDE3IDE3IDE2MiA3MCAyNDYgOTAgMTg4IDQ0IDM1NyA0NyA1NTAgOSA0MTItODIgNzYwLTM3NCA5MTctNzcxbDMxLTc4LTI2LTM3Yy0yMi0zMy0yNS00Ni0yMi05NiA0LTUxIDktNjMgNDEtOTQgMzEtMzIgNDMtMzcgOTQtNDEgNDktMyA2NCAwIDkzIDIwIDk1IDY0IDkxIDIwMC03IDI1Ni0zNiAyMC00NCAzMS02OCAxMDAtOTUgMjY4LTI5NCA1MTgtNTQwIDY3Ny0yMDAgMTMwLTQwOCAyMDItNjUwIDIyNS0xMjEgMTEtMTIxIDExLTI1MC0xeiIgZmlsbD0iIzk1QzExRiIvPjxwYXRoIGQ9Im03MDQgMjY3MGMtMjgtMTEtMTQ1LTE1OC0yMDYtMjU4LTg5LTE0Ni0xNTMtMzI0LTE4NC01MTItMjEtMTI2LTE0LTM3OCAxNS01MDAgMzUtMTUxIDExNC0zNDkgMTcyLTQzMiAxNi0yMiAxOC0zNyAxMy04MS0xMS05NyA0Mi0xNjYgMTM1LTE3NCA1Ny01IDEwNyAxOSAxMzkgNjcgMjAgMjkgMjMgNDQgMjAgOTMtNCA1MS05IDYzLTQwIDk0LTI4IDI3LTQ2IDM2LTgzIDQwLTQxIDUtNDkgMTAtNzMgNDctMTA4IDE3Mi0xNzIgNDA5LTE3MiA2NDEgMCAyNzggODAgNTE5IDI0NSA3NDNsNDYgNjMgNjktODdjMzktNDcgNzAtODkgNzAtOTMgMC0zLTE2LTMwLTM2LTYwLTQ4LTcxLTg0LTE1MC03Ny0xNzAgMTItMzIgMzctNTEgNjgtNTEgMzYgMCA1MyAxNiA4NCA3NyAxMSAyMyA0MyA3MSA3MSAxMDggNzMgOTcgNzMgOTktNjYgMjc0LTE1MiAxOTEtMTU1IDE5My0yMTAgMTcxeiIgZmlsbD0iIzk1QzExRiIvPjxwYXRoIGQ9Im0yNDAwIDIzNzNjLTgtMy0yMS0xMi0yNy0yMS0yNS0zMS0xNC02OSA0MC0xNDQgNjMtODggMTA5LTE4NyAxMzgtMjk0IDI5LTEwNiAzMi0zMjcgNi00MjQtNjktMjU2LTIxOS00NTQtNDM4LTU3NGwtNjUtMzYtMzkgMjBjLTgwIDQxLTE2NCAxNi0yMDItNjAtMTMtMjQtMjMtNTgtMjMtNzUgMC00NCAzMC05NiA3MC0xMjMgMjktMjAgNDUtMjMgOTMtMjAgNDkgNCA2MiA5IDkyIDM4IDE5IDE4IDM3IDQ1IDQwIDU5IDQgMjAgMjMgMzUgODggNjggMzQyIDE3NiA1NjQgNTY1IDU0MyA5NTMtMTEgMjE2LTEwMCA0NTAtMjI4IDYwMi0yNCAyOC02MSA0MS04OCAzMXoiIGZpbGw9IiM5NUMxMUYiLz48cGF0aCBkPSJtMTUzMCAyMzM0Yy0zMC04LTkzLTMzLTE0MC01NS02OC0zMy0xMDEtNTgtMTY1LTEyMy0xMjUtMTI3LTE4Mi0yNTUtMTkyLTQzMS0xNS0yNzEgMTMyLTUxNCAzODItNjMxIDc4LTM2IDE5OC02NCAyNzUtNjQgODIgMCAxOTkgMjggMjg1IDY5IDEyNSA1OSAyNDUgMTY5IDI0NSAyMjQgMCAyNC00NCA2Ny03MCA2Ny0xMSAwLTUxLTI4LTg4LTYzLTE0OC0xMzUtMzE0LTE4My00OTEtMTQyLTE5MCA0NS0zNTIgMjExLTM5MiA0MDItMTYgNzktNyAyMTQgMTkgMjgyIDQ3IDEyMCAxNDEgMjI3IDI1MiAyODUgODkgNDcgMTU4IDYwIDI3OSA1NCA5NS01IDEwNy04IDE4Ny00NyAxMzgtNjkgMjM1LTE4MyAyNzgtMzI4bDE1LTUzaC0xOTEtMTkxbC0zOCAzNGMtODkgODEtMjE3IDQzLTI0OS03Mi00MC0xNDkgMTQ5LTI1MCAyNTctMTM2bDMyIDM0aDI0NGMyOTUgMCAyODMtNSAyNzQgMTE3LTEwIDE1My03MyAyODEtMTk2IDQwMy05NSA5NS0xODMgMTQ1LTMwMiAxNzQtODEgMjAtMjQ0IDIwLTMxOSAweiIgZmlsbD0iIzk1QzExRiIvPjxwYXRoIGQ9Im02NjAgMTc4MmMtMzgtMjAtODAtODktODAtMTMyIDEtNDEgMzYtMTA2IDY4LTEyNSAyNS0xNSAzMy0zMSA1MS05OSAyNy0xMDAgOTctMjQ4IDE1NS0zMzAgNTEtNzAgMTM2LTE2MCAyMDYtMjE1bDQ3LTM4LTc4LTEzOGMtNDQtNzctNzktMTQ4LTc5LTE1OCAwLTYyIDI0NC0xNzUgNDg2LTIyNCAxMjQtMjUgMzk1LTI1IDUxNCAwIDQ3MyAxMDAgODQyIDM5NyAxMDIxIDgyMiAzMiA3NiA0MyA5MyA3NSAxMTEgNTEgMjkgNzYgNjcgODEgMTIzIDEzIDE0Ny0xNjIgMjE4LTI2NiAxMDctMzUtMzctNDEtMTIyLTEyLTE3MSAxMS0yMCAyMS00MiAyMS00OCAwLTI2LTExMC0yMzYtMTYxLTMwNy0xMDktMTU1LTI4NS0zMDQtNDY0LTM5My0yNjAtMTI5LTU4MS0xNjEtODcxLTg3LTY3IDE3LTIzOSA4MS0yNTEgOTQtNCA0IDg2IDE3MyAxMDMgMTk1IDIgMiAyNy03IDU2LTE5IDcyLTMxIDE2Ny02MCAyMDAtNjAgMzYgMCA3MSA0NSA2MyA4MC05IDM3LTIyIDQ1LTEwNSA3MC0yODUgODQtNTI5IDMzMS02MDUgNjEzbC0xOCA2OCAyNyAyOGM3MSA3NSA0NyAxODktNTEgMjQwLTMzIDE3LTk0IDEzLTEzMy03eiIgZmlsbD0iIzk1QzExRiIvPjwvZz48L3N2Zz4=",
+      "title": "Cybersecurity Architect",
+      "alternative-titles": [
+        "Cybersecurity Architect",
+        "Cybersecurity Designer",
+        "Cybersecurity Solutions Architect",
+        "Data Security Architect"
+      ],
+      "summary-statement": "Plans and designs security-by-design solutions (infrastructures, systems, assets, software, hardware and services) and cybersecurity controls.",
+      "mission": "Designs solutions based on security-by-design and privacy-by-design principles. Creates and continuously improves architectural models and develops appropriate architectural documentation and specifications. Coordinate secure development, integration and maintenance of cybersecurity components in line with standards and other related requirements.",
+      "deliverables": [
+        "Cybersecurity Architecture Diagram",
+        "Cybersecurity Requirements Report"
+      ],
+      "main-tasks": [
+        "Adapt the organisation's architecture to emerging threats",
+        "Analyse and evaluate the cybersecurity of the organisation's architecture",
+        "Assess the implemented architecture to maintain an appropriate level of security",
+        "Assure the security of the solution architectures through security reviews and certification",
+        "Collaborate with other teams and colleagues",
+        "Coordinate the development, integration and maintenance of cybersecurity components ensuring the cybersecurity specifications",
+        "Design and propose a secure architecture to implement the organisation's strategy",
+        "Develop organisation's cybersecurity architecture to address security and privacy requirements",
+        "Establish a secure environment during the development lifecycle of systems, services and products",
+        "Evaluate the impact of cybersecurity solutions on the design and performance of the organisation's architecture",
+        "Present high-level security architecture design to stakeholders",
+        "Produce architectural documentation and specifications"
+      ],
+      "key-skills": [
+        "Build resilience against points of failure across the architecture",
+        "Communicate, present and report to relevant stakeholders",
+        "Conduct user and business security requirements analysis",
+        "Coordinate the integration of security solutions",
+        "Decompose and analyse systems to develop security and privacy requirements and identify effective solutions",
+        "Design systems and architectures based on security and privacy by design and by defaults cybersecurity principles",
+        "Draw cybersecurity architectural and functional specifications",
+        "Guide and communicate with implementers and IT/OT personnel",
+        "Propose cybersecurity architectures based on stakeholder's needs and budget",
+        "Select appropriate specifications, procedures and controls"
+      ],
+      "key-knowledge": [
+        "Cyber threats",
+        "Cybersecurity controls and solutions",
+        "Cybersecurity recommendations and best practices",
+        "Cybersecurity risks",
+        "Cybersecurity standards, methodologies and frameworks",
+        "Cybersecurity trends",
+        "Cybersecurity-related certifications",
+        "Cybersecurity-related requirements analysis",
+        "Cybersecurity-related technologies",
+        "Legacy cybersecurity procedures",
+        "Legal, regulatory and legislative compliance requirements, recommendations and best practices",
+        "Privacy-by-design standards, methodologies and frameworks",
+        "Privacy-Enhancing Technologies (PET)",
+        "Secure development lifecycle",
+        "Security architecture reference models"
+      ],
+      "e-competences": [
+        {
+          "name": "A.5. Architecture Design",
+          "level": 5
+        },
+        {
+          "name": "A.6. Application Design",
+          "level": 3
+        },
+        {
+          "name": "B.1. Application Development",
+          "level": 3
+        },
+        {
+          "name": "B.3. Testing",
+          "level": 3
+        },
+        {
+          "name": "B.6. ICT Systems Engineering",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjYwM3B0IiBoZWlnaHQ9IjUyMHB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCA2MDMgNTIwIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDUyMCkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTM3NjUgNDY5NGMtMTYtMi02Ni05LTExMC0xNS01ODctODAtMTEwMS01MDUtMTI5OS0xMDc4LTEzNi0zOTEtMTE0LTg0NCA1OS0xMjE4IDE5LTQyIDM0LTc3IDMzLTc4LTItMS04Ny01NC0xOTAtMTE5bC0xODYtMTE3LTY0IDIyYy03NCAyNS0xNTAgMjItMjIwLTktMjQtMTAtMjkyLTE3OC01OTQtMzcxLTU5Ni0zODItNjM1LTQxMi02NjctNTEwLTQ1LTE0MSAyLTI5MSAxMTYtMzcwIDg5LTYxIDIxMC03NSAzMDQtMzYgNDUgMTkgMTEzNyA3MjAgMTE4MSA3NTkgNDcgNDEgODEgMTA0IDk2IDE3N2wxMiA2MyAxMjUgNzggMTI0IDc4IDUtNTgyYzYtNjMyIDUtNjIyIDYzLTcyMSAzMi01NSA4MS05MyAxNTUtMTIwIDU2LTIxIDY2LTIxIDc3NS0yMCA3OTggMiA3NzUgMCA4NTUgNjkgNTMgNDUgOTkgMTM5IDExMiAyMjkgNSAzOSAxMCAyMjAgMTAgNDAzIDAgMjU5IDMgMzMyIDEzIDMzMiAyNyAwIDI0OCAxMTUgMzQyIDE3OCAxNDEgOTQgMzM5IDI5MiA0MzMgNDM1IDEzOCAyMDggMjE3IDQxMSAyNjMgNjc3IDE5IDExMSAxNiAzODMtNSA1MDUtMTI1IDY5Ny02NDYgMTIxOS0xMzM2IDEzMzktOTIgMTYtMzQ1IDI5LTQwNSAyMHptMzgwLTM0OWM0MDMtODMgNzM4LTM0MCA5MTktNzAzIDM0LTY4IDk1LTIzNiAxMTEtMzA3IDYtMjkgNS0yOS00NyAyMC0yOSAyOC0xNDMgMTM4LTI1MyAyNDZzLTIyMCAyMDgtMjQ1IDIyMmMtNzggNDUtMTQwIDU1LTM2NSA2Mi0yNDMgNy04NzQtOS05NTUtMjUtMTU5LTMwLTI4NS0xMzYtMzIwLTI2OS0yOC0xMDgtMzItMTg4LTM4LTgwMWwtNy02NDUtNjUgODJjLTEzMyAxNjYtMjIwIDM0NS0yNjggNTQ3LTIyIDk2LTI2IDEzNC0yNiAyODEtMSAyMzkgMzUgMzk1IDEzNiA1OTMgMTkyIDM3OCA1NTEgNjM5IDk3MyA3MDcgMTEzIDE4IDMzOSAxMyA0NTAtMTB6bTI5MC02NzFjNDctMzEgNTQtNzUgNTgtMzg5IDMtMjQ4IDYtMjk1IDIwLTMyMiAzMS01OSA0Mi02MSAzNzUtNjRsMzA0LTQtNy01NWMtOS03MC00OC0yMDQtODYtMjk0LTQ0LTEwNS00My0xMDUtNzQtNzZsLTI3IDI1aC03ODMtNzgzbC0yNi0yNGMtNTMtNTAtNDEtMTMxIDI0LTE2MyAzMi0xNyA5MS0xOCA3NzgtMThoNzQzbC0xMi0yMWMtNi0xMi00MS01Mi03Ny05MWwtNjctNjktNjY1IDFjLTYxNiAwLTY2OC0xLTcwMC0xNy02NS0zMy03Ny0xMTQtMjQtMTY0bDI2LTI0IDUzMS01IDUzMi01LTUwLTIzYy0xNzUtODItMzA0LTExMi01MDYtMTE5LTE4MS02LTMwNyAxMC00NTEgNTctODcgMjktMjE3IDkwLTI5MCAxMzZsLTM4IDI0djc1OCA3NThsMjggNTRjMzIgNjQgODIgMTA2IDE1NCAxMzEgNDkgMTcgOTUgMTggNTYxIDE5IDQ0NiAwIDUxMS0yIDUzMi0xNnptLTE3MTctMTczNWM3NS04MCAxNzctMTY2IDI2Ni0yMjVsNjAtMzktOTctNWMtMTA2LTUtMTIyLTE0LTEzMy02Ni00LTI0IDAtMzcgMTktNjBsMjUtMjkgMjk0LTZjMjMxLTUgMzA1LTEwIDM0OC0yMyAyMDEtNjEgNDcyLTY0IDc3My05bDI4IDUtNi03MDAtMzAtNDRjLTE3LTIzLTUxLTU0LTc1LTY4bC00NS0yNWgtNjcwYy02MzUgMC02NzIgMS03MDUgMTktNDggMjYtNzkgNTUtMTAwIDk2LTE3IDMzLTE5IDc5LTIyIDY0My0yIDMzNC0yIDYwNyAwIDYwNyAxIDAgMzMtMzIgNzAtNzF6IiBmaWxsPSIjRjlCMjMzIi8+PHBhdGggZD0ibTI4NDEgMTM1M2MtMzQtMjktMzctNzQtOC0xMDlsMjUtMjloNjEwYzU4NiAwIDYxMSAxIDYzMSAxOSAzMiAyOSAyOSA4OC01IDExNS0yNiAyMS0zNSAyMS02MjkgMjEtNTU5IDAtNjA0LTEtNjI0LTE3eiIgZmlsbD0iI0Y5QjIzMyIvPjxwYXRoIGQ9Im0yODYzIDEwNjBjLTM0LTE0LTU2LTU0LTQ4LTkwIDE0LTYyLTMtNjAgNTc4LTYwaDUyOGwyNCAyNWMzMyAzMyAzMiA3MC00IDEwNmwtMjkgMjktNTE0LTFjLTI4MiAwLTUyMy00LTUzNS05eiIgZmlsbD0iI0Y5QjIzMyIvPjwvZz48L3N2Zz4=",
+      "title": "Cybersecurity Auditor",
+      "alternative-titles": [
+        "Cybersecurity Audit Manager",
+        "Cybersecurity Auditor",
+        "Cybersecurity Procedures and Processes Auditor",
+        "Data Protection Assessment Analyst",
+        "Governance Risk Compliance (GRC) Auditor",
+        "Information Security Auditor (IT or Legal Auditor)",
+        "Information Security Risk and Compliance Auditor"
+      ],
+      "summary-statement": "Perform cybersecurity audits on the organisation's ecosystem. Ensuring compliance with statutory, regulatory, policy information, security requirements, industry standards and best practices.",
+      "mission": "Conducts independent reviews to assess the effectiveness of processes and controls and the overall compliance with the organisation's legal and regulatory frameworks policies. Evaluates, tests and verifies cybersecurity-related products (systems, hardware, software and services), functions and policies ensuring, compliance with guidelines, standards and regulations.",
+      "deliverables": [
+        "Cybersecurity Audit Plan",
+        "Cybersecurity Audit Report"
+      ],
+      "main-tasks": [
+        "Audit compliance with cybersecurity-related applicable laws and regulations",
+        "Audit conformity with cybersecurity-related applicable standards",
+        "Define audit scope, objectives and criteria to audit against",
+        "Develop an audit plan describing the frameworks, standards, methodology, procedures and auditing tests",
+        "Develop and communicate conformity assessment, assurance, audit, certification and maintenance reports",
+        "Develop the organisation's auditing policy, procedures, standards and guidelines",
+        "Establish the methodologies and practices used for systems auditing",
+        "Establish the target environment and manage auditing activities",
+        "Execute the audit plan and collect evidence and measurements",
+        "Maintain and protect the integrity of audit records",
+        "Monitor risk remediation activities",
+        "Review target of evaluation, security objectives and requirements based on the risk profile"
+      ],
+      "key-skills": [
+        "Analyse business processes, assess and review software or hardware security, as well as technical and organisational controls",
+        "Apply auditing tools and techniques",
+        "Audit with integrity, being impartial and independent",
+        "Collect, evaluate, maintain and protect auditing information",
+        "Communicate, explain and adapt legal and regulatory requirements and business needs",
+        "Decompose and analyse systems to identify weaknesses and ineffective controls",
+        "Follow and practice auditing frameworks, standards and methodologies",
+        "Organise and work in a systematic and deterministic way based on evidence"
+      ],
+      "key-knowledge": [
+        "Auditing standards, methodologies and frameworks",
+        "Auditing-related certification",
+        "Conformity assessment standards, methodologies and frameworks",
+        "Cybersecurity controls and solutions",
+        "Cybersecurity standards, methodologies and frameworks",
+        "Cybersecurity-related certifications",
+        "Legal, regulatory and legislative compliance requirements, recommendations and best practices",
+        "Monitoring, testing and evaluating cybersecurity controls' effectiveness"
+      ],
+      "e-competences": [
+        {
+          "name": "B.3. Testing",
+          "level": 4
+        },
+        {
+          "name": "B.5. Documentation Production",
+          "level": 3
+        },
+        {
+          "name": "E.3. Risk Management",
+          "level": 4
+        },
+        {
+          "name": "E.6. ICT Quality Management",
+          "level": 4
+        },
+        {
+          "name": "E.8. Information Security Management",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjQ0N3B0IiBoZWlnaHQ9IjMzOHB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCA0NDcgMzM4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMzOCkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTIxNDQgMjk4NmMtMjMtNy05NS00My0xNjEtNzlzLTQyMy0yMTYtNzk0LTQwMC03MDEtMzUzLTczNS0zNzVjLTY4LTQ1LTkwLTgyLTgxLTEzOSA0LTIwIDE3LTQ3IDI5LTU5IDEzLTEyIDE4MS0xMTAgMzczLTIxNyAxOTMtMTA3IDU4OS0zMjggODgwLTQ5MiA1MjUtMjkzIDUzMC0yOTYgNTgwLTI5MiA0MyAzIDEwOSAzNyA0ODAgMjQ0IDIzNyAxMzIgNTMxIDI5NiA2NTUgMzY1bDIyNSAxMjQgOC02NWMxMi05NSAyLTMzNi0xNy0zOTYtOC0yNy00MS0xNjItNzEtMzAwLTU5LTI2MS02NC0zMTgtMzQtMzgwIDQ3LTk4IDI5Ny0xMTYgMzgyLTI3IDE4IDE5IDMwIDQ3IDM3IDg0IDEwIDUzIDYgNzYtNzEgNDE1bC04MyAzNTgtNCAxODhjLTMgMTM4LTEgMTkyIDggMjAyIDcgOSA3MiA0OCAxNDQgODcgNzIgNDAgMTQ2IDg3IDE2NSAxMDUgMzEgMzEgMzMgMzcgMjggODYtNCA0NC0xMCA1Ni0zOCA4MC01MSA0My0zMDIgMTc0LTgzNCA0MzMtMjY0IDEyOS01NjUgMjgwLTY2OCAzMzVzLTIwNiAxMDctMjI5IDExNWMtNDkgMTctMTE5IDE3LTE3NCAweiIgZmlsbD0iIzk1QzExRiIvPjxwYXRoIGQ9Im0yOTA1IDExNjNjLTIzMS0xMjktNDY3LTI2MC01MjUtMjkwLTE2OC04OS0xMjctMTAyLTcyNCAyMzEtMjcyIDE1Mi01MDIgMjc5LTUxMCAyODItMTQgNS0xNi0xNC0xNi0xNjMgMC0xOTQgMTMtMjYwIDgyLTQwMyA1Mi0xMDkgMTQxLTE5OSAyNTUtMjU4IDEwNS01NCAyOTAtMTE3IDQ0My0xNDkgMTExLTI0IDE0Ny0yNyAzMjUtMjcgMTU1LTEgMjIwIDMgMjkwIDE3IDE0MCAyOSAyOTkgODMgNDM1IDE1MCAxMDggNTMgMTM1IDcwIDIwMCAxMzYgMTMzIDEzMyAxNjggMjQwIDE3MiA1MjkgMiAxMDAgMSAxODItMiAxODEtMyAwLTE5NC0xMDYtNDI1LTIzNnoiIGZpbGw9IiM5NUMxMUYiLz48L2c+PC9zdmc+",
+      "title": "Cybersecurity Educator",
+      "alternative-titles": [
+        "Cybersecurity Awareness Specialist",
+        "Cybersecurity Educator",
+        "Cybersecurity Trainer",
+        "Faculty in Cybersecurity (Professor, Lecturer)"
+      ],
+      "summary-statement": "Improves cybersecurity knowledge, skills and competencies of humans.",
+      "mission": "Designs, develops and conducts awareness, training and educational programmes in cybersecurity and data protection-related topics. Uses appropriate teaching and training methods, techniques and instruments to communicate and enhance the cybersecurity culture, capabilities, knowledge and skills of human resources. Promotes the importance of cybersecurity and consolidates it into the organisation.",
+      "deliverables": [
+        "Cybersecurity Awareness Program",
+        "Cybersecurity Training Material"
+      ],
+      "main-tasks": [
+        "Continuously maintain and enhance expertise; encourage and empower continuous enhancement of cybersecurity capacities and capabilities building",
+        "Design, develop and deliver cybersecurity simulations, virtual labs or cyber range environments",
+        "Develop, update and deliver cybersecurity and data protection curricula and educational material for training and awareness based on content, method, tools, trainees need",
+        "Evaluate and report trainee's performance",
+        "Finding new approaches for education, training and awareness-raising",
+        "Monitor, evaluate and report training effectiveness",
+        "Organise, design and deliver cybersecurity and data protection awareness-raising activities, seminars, courses, practical training",
+        "Provide guidance on cybersecurity certification programs for individuals"
+      ],
+      "key-skills": [
+        "Communicate, present and report to relevant stakeholders",
+        "Design, develop and deliver learning programmes to cover cybersecurity needs",
+        "Develop cybersecurity exercises including simulations using cyber range environments",
+        "Develop evaluation programs for the awareness, training and education activities",
+        "Identify and select appropriate pedagogical approaches for the intended audience",
+        "Identify needs in cybersecurity awareness, training and education",
+        "Motivate and encourage people",
+        "Provide training towards cybersecurity and data protection professional certifications",
+        "Utilise existing cybersecurity-related training resources"
+      ],
+      "key-knowledge": [
+        "Cybersecurity awareness, education and training programme development",
+        "Cybersecurity controls and solutions",
+        "Cybersecurity education and training standards, methodologies and frameworks",
+        "Cybersecurity recommendations and best practices",
+        "Cybersecurity related laws, regulations and legislations ",
+        "Cybersecurity standards, methodologies and frameworks",
+        "Cybersecurity-related certifications",
+        "Pedagogical standards, methodologies and frameworks"
+      ],
+      "e-competences": [
+        {
+          "name": "D.3. Education and Training Provision",
+          "level": 3
+        },
+        {
+          "name": "D.9. Personnel Development",
+          "level": 3
+        },
+        {
+          "name": "E.8. Information Security Management",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM0MXB0IiBoZWlnaHQ9IjI4OXB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCAzNDEgMjg5Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDI4OSkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTI1MDMgMjYwM2MtNDItNC00Mi00LTU4LTYxLTM3LTEzNC0zOS0xMzYtNzctMTU3LTM4LTIwLTU0LTE4LTIwMyAyMS0xNiA0LTI4LTYtNTMtNDEtMTctMjUtMzItNTEtMzItNTggMC04IDE4LTM4IDQxLTY4IDU5LTc4IDY5LTEwMSA2Mi0xNDItNC0zMC0xOC00NS04NC05NmwtNzgtNjEgMjEtNjBjMjItNjcgOC02MCAxMzgtNjUgNzAtMyA3OS02IDExMC0zN2wzMi0zMS00LTk1LTMtOTYgMTE4LTUwIDQxIDQ5Yzc5IDk2IDkxIDEwNSAxMzYgMTA1IDM2IDAgNTEtOCAxMTQtNTlsNzMtNjAgMzkgMjFjNzQgMzkgNzMgMzYgNTMgMTQxLTE3IDkwLTE3IDkzIDMgMTI1IDI1IDQxIDM3IDQ3IDEyNSA2MiAzOSA3IDc3IDE2IDg0IDIwIDYgNCAxNiAzMiAyMCA2MSAxMSA2NCA1IDcxLTEwMiAxMjQtNTggMzAtNjcgMzgtNzcgNzQtMTIgMzgtMTEgNDQgMjggMTIwIDIyIDQ0IDQwIDg2IDQwIDkzcy0xOCAzMS00MSA1NGwtNDEgNDItOTEtNDBjLTkxLTM5LTkyLTM5LTEzMS0yMy0zNCAxNC00MyAyNi03OSAxMDYtMzMgNzItNDUgODktNjEgODctMTItMS00MC0zLTYzLTV6bTEwOS00MDNjMTEzLTMyIDE1MC0xNzYgNjctMjU5LTEwOC0xMDktMjkzLTUtMjU5IDE0NSAxNCA1OSA4MiAxMTggMTQ1IDEyMyA2IDEgMjctNCA0Ny05eiIgZmlsbD0iIzAwNEY5RiIvPjxwYXRoIGQ9Im0xMDU4IDI1ODFjLTI2LTQtNDktOS01MS0xMS0yLTMtMTgtNTEtMzUtMTA2LTMyLTEwMS0zMi0xMDEtNzUtMTE4LTIzLTktNDktMTYtNTYtMTZzLTUxIDE4LTk4IDQwLTkxIDQwLTk3IDQwYy02LTEtMzEtMTktNTYtNDFsLTQ1LTQxIDI4LTEwNCAyNy0xMDUtMzAtNDRjLTMyLTQ3LTI3LTQ1LTE2NC02NS0zOC02LTcyLTEzLTc2LTE1cy0xNS0zMS0yNS02NGwtMTgtNjAgNTktNTNjMTA3LTk2IDEwNC05MyAxMDQtMTQ3di00OWwtODAtNjhjLTUzLTQ1LTgwLTc0LTgwLTg4IDAtMzYgMjYtMTA4IDQxLTExNiA4LTQgNTMtMTMgMTAxLTIwczkxLTE2IDk3LTE5YzUtMyAyMC0yNiAzNC00OWwyNC00My0yOS0xMDEtMzAtMTAwIDQzLTQ0YzI0LTI0IDQ4LTQ0IDU0LTQ0IDcgMCA1NCAxOCAxMDUgNDFsOTQgNDAgNDgtMjJjNTEtMjQgNTMtMjcgMTA0LTIxMSA2LTIwIDE3LTI0IDg2LTMzbDU0LTcgNTMgODFjMjkgNDQgNTggODQgNjUgODkgNiA1IDMyIDEzIDU4IDE2IDQ3IDcgNDcgNyAxMjAtNTcgNDAtMzQgODAtNjYgODktNjkgOC0zIDQwIDYgNzAgMjFsNTQgMjYgNiAyMTQgNDEgMzIgNDAgMzMgOTctMTJjNTMtNyAxMDItMTIgMTA4LTEyIDcgMCAyOSAyNCA0OSA1NGwzNiA1NS01NyA5Mi01NyA5MyAxMyA0NWMxNCA0NSAxNyA0NyAxMTQgOTZsMTAwIDUwIDYgMTMwLTkyIDQ1Yy05NyA0OC0xMTQgNjQtMTI0IDEyMS02IDMzLTEgNDYgNTAgMTI1bDU3IDg4LTE2IDMxYy05IDE3LTI3IDQzLTM5IDU4LTIyIDI4LTIyIDI4LTkyIDE4LTEyMi0xOC0xNDctMTUtMTgzIDIyLTMyIDMzLTMyIDMzLTMyIDE0MHYxMDdsLTUwIDI1Yy0yNyAxNC01NyAyNS02NiAyNXMtNTItMjktOTYtNjVjLTc4LTYzLTgwLTY0LTEyNi01OS01MyA3LTU4IDExLTEyNSAxMTgtMzEgNTAtNTMgNzYtNjUgNzUtOS0xLTM4LTUtNjQtOHptMjg2LTYxMGMyNjAtMTI4IDI1Ni00ODctNi02MjItNjYtMzQtMTk0LTM4LTI3My04LTgyIDMxLTE2MyAxMTItMTk0IDE5NC0zMCA3OS0yNiAyMDcgOCAyNzMgMjggNTQgOTIgMTI1IDEzOSAxNTQgOTMgNTcgMjIxIDYxIDMyNiA5eiIgZmlsbD0iIzAwNEY5RiIvPjxwYXRoIGQ9Im0yNTA5IDE0NjljLTU1LTk1LTczLTExMy0xMjctMTIzLTI3LTUtNDkgNC0xMzIgNTBsLTk5IDU2LTU2LTQ4Yy0zOS0zMy01NC01Mi01MC02MyAzNi05MCA2NS0xNzcgNjUtMTk2IDAtMTQtOC00MC0xNy02MC0xNS0zMS0yOC0zOS0xMTctNzRsLTEwMS00MC0zLTY5Yy0yLTQ3IDEtNzIgMTAtNzkgNy02IDUyLTIzIDEwMC0zNyA2OS0yMSA5My0zNCAxMTctNjIgMTctMTkgMzEtNDUgMzEtNTggMC0xMi0xMy02Ni0yOS0xMjBsLTI5LTk3IDIxLTE5YzExLTExIDM3LTMxIDU4LTQ2bDM4LTI2IDkzIDYxYzUxIDM0IDEwMiA2MSAxMTQgNjEgNTYgMCA4NS0yMiAxNDUtMTEyIDY3LTk5IDU2LTk1IDE2NC02NGw0MCAxMiAxMSAxMTNjMTEgMTA5IDEyIDExMyA0NSAxNDJsMzQgMzAgMTE4LTUgMTE3LTYgMjUgNTZjMTQgMzEgMjUgNjQgMjUgNzQgMCA5LTM2IDUxLTgwIDkyLTc4IDczLTgwIDc2LTgwIDEyMSAwIDQ0IDQgNTEgNzUgMTI4IDQxIDQ1IDc1IDg3IDc1IDkzIDAgMTMtNTYgMTEzLTY3IDExOS01IDMtNTEtMS0xMDMtOS0xMjYtMTgtMTIwLTE4LTE2MiAxOS0zNiAzMS0zOSAzNi01NCAxMzctOSA1OC0xOCAxMDctMjAgMTA5LTMgMy0xMjEgMzAtMTM2IDMxLTQgMC0zMC00MS01OS05MXptMTAzLTQwNGM0Ny0zMiA3OC05MCA3OC0xNTAgMC01Mi0xMC03Ny00OS0xMTgtMzgtNDItNzQtNTctMTM0LTU3LTE1NCAwLTIzMCAxODEtMTI0IDI5NiA2MSA2NyAxNTQgNzggMjI5IDI5eiIgZmlsbD0iIzAwNEY5RiIvPjwvZz48L3N2Zz4=",
+      "title": "Cybersecurity Implementer",
+      "alternative-titles": [
+        "Cybersecurity Developer",
+        "Cybersecurity Engineer",
+        "Cybersecurity Implementer",
+        "Cybersecurity Solutions Expert",
+        "Development, Security & Operations (DevSecOps) Engineer",
+        "Information Security Implementer"
+      ],
+      "summary-statement": "Develop, deploy and operate cybersecurity solutions (systems, assets, software, controls and services) on infrastructures and products.",
+      "mission": "Provides cybersecurity-related technical development, integration, testing, implementation, operation, maintenance, monitoring and support of cybersecurity solutions. Ensures adherence to specifications and conformance requirements, assures sound performance and resolves technical issues required in the organisation's cybersecurity-related solutions (systems, assets, software, controls and services), infrastructures and products.",
+      "deliverables": [
+        "Cybersecurity Solutions"
+      ],
+      "main-tasks": [
+        "Develop, implement, maintain, upgrade, test cybersecurity products",
+        "Document and report on the security of systems, services and products",
+        "Implement cybersecurity procedures and controls",
+        "Implement, apply and manage patches to products to address technical vulnerabilities",
+        "Integrate cybersecurity solutions and ensure their sound operation",
+        "Maintain and upgrade the security of systems, services and products",
+        "Monitor and assure the performance of the implemented cybersecurity controls",
+        "Provide cybersecurity-related support to users and customers",
+        "Securely configure systems, services and products",
+        "Work close with the IT/OT personnel on cybersecurity-related actions"
+      ],
+      "key-skills": [
+        "Assess the security and performance of solutions",
+        "Collaborate with other team members and colleagues",
+        "Communicate, present and report to relevant stakeholders",
+        "Configure solutions according to the organisation's security policy",
+        "Develop codes, scripts and programmes",
+        "Identify and solve cybersecurity-related issues",
+        "Integrate cybersecurity solutions to the organisation's infrastructure"
+      ],
+      "key-knowledge": [
+        "Computer networks security",
+        "Computer programming",
+        "Cybersecurity controls and solutions",
+        "Cybersecurity recommendations and best practices",
+        "Cybersecurity-related technologies",
+        "Offensive and defensive security practices",
+        "Operating systems security",
+        "Secure coding recommendations and best practices",
+        "Secure development lifecycle",
+        "Testing procedures",
+        "Testing standards, methodologies and frameworks"
+      ],
+      "e-competences": [
+        {
+          "name": "A.5. Architecture Design",
+          "level": 3
+        },
+        {
+          "name": "A.6. Application Design",
+          "level": 3
+        },
+        {
+          "name": "B.1. Application Development",
+          "level": 3
+        },
+        {
+          "name": "B.3. Testing",
+          "level": 3
+        },
+        {
+          "name": "B.6. ICT Systems Engineering",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjM3NHB0IiBoZWlnaHQ9IjM2OHB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCAzNzQgMzY4Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDM2OCkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTExOTEgMzM0OGMtNjUtMzMtODYtNjctODYtMTM4IDAtOTkgNTYtMTQ5IDE3Ni0xNThsNjktNXYtMzEyLTMxMmwtNDg1LTY1OGMtNDg2LTY1OS01MDgtNjkzLTUzNS04MDgtNDktMjE0IDY5LTQ3MSAyNjUtNTc0IDEzOC03MiA1NS02OCAxMjgwLTY4IDEwMzkgMCAxMTAzIDEgMTE2MCAxOCA4OSAyOCAxNDYgNjAgMjEwIDExOSAxNzcgMTYxIDIyOSAzOTggMTM1IDYxNS0xMSAyNy0yMzcgMzQyLTUwMCA2OTlsLTQ3OSA2NDktMSAzMTZ2MzE2bDYwIDZjMzMgMyA3NSAxNCA5MiAyNCAzNiAyMCA3OCA5MiA3OCAxMzMgMCA0Mi00MiAxMTMtODAgMTM1LTM0IDE5LTUzIDIwLTY3NSAyM2wtNjQwIDItNDQtMjJ6bTg4OS02NTFjMC0zMTggMi0zNTYgMTgtMzg3IDktMTkgOTMtMTM4IDE4Ni0yNjMgOTItMTI1IDE2Ni0yMzAgMTY0LTIzMy0zLTItMjY0LTMtNTgxLTJsLTU3NiAzIDE1NiAyMTBjODUgMTE2IDE2OCAyMzAgMTg0IDI1NGwyOSA0NXYzNjMgMzYzaDIxMCAyMTB2LTM1M3ptLTM2OC05ODhjNDgtMjUgODYtODEgOTQtMTQyIDEwLTY3LTMxLTE0Ny05Mi0xODMtMzgtMjMtNTMtMjYtMTA4LTIyLTUwIDMtNzEgMTAtMTAwIDMxLTEyNyA5Ny04NyAzMDAgNjcgMzM4IDQyIDEwIDkyIDIgMTM5LTIyem03MDQtMTAzYzM4LTM4IDQ0LTc3IDE5LTEyNi0xNy0zMi02MS02MC05NS02MHMtNzggMjgtOTUgNjBjLTI1IDQ5LTE5IDg4IDE5IDEyNiAyOCAyOCA0MiAzNCA3NiAzNHM0OC02IDc2LTM0em0tMTU2LTM0OGM5MS02MyA5MC0xODItMi0yNTEtMjctMjAtODYtMjctMTMxLTE0bC0yOCA4IDE4LTMzYzI4LTUxIDI1LTE5OS01LTI1NS04Mi0xNTYtMjU2LTIxNy00MDctMTQ0LTczIDM1LTExNSA3OC0xNDkgMTUxLTY5IDE0OC02IDMyMSAxNDcgNDAyIDM1IDE5IDU4IDIzIDEzMiAyMyA4MyAwIDk0LTMgMTQ2LTMybDU2LTMyLTQgNDJjLTEyIDExOSAxMjkgMjAyIDIyNyAxMzV6IiBmaWxsPSIjOTVDMTFGIi8+PC9nPjwvc3ZnPg==",
+      "title": "Cybersecurity Researcher",
+      "alternative-titles": [
+        "Chief Research Officer (CRO) in cybersecurity",
+        "Cybersecurity Research Engineer",
+        "Cybersecurity Researcher",
+        "Research and Development (R&D) Officer in cybersecurity",
+        "Research and Innovation Officer/Expert in cybersecurity",
+        "Research Fellow in cybersecurity",
+        "Scientific Staff in cybersecurity",
+        "Senior Research Officer in cybersecurity"
+      ],
+      "summary-statement": "Research the cybersecurity domain and incorporate results in cybersecurity solutions.",
+      "mission": "Conducts fundamental/basic and applied research and facilitates innovation in the cybersecurity domain through cooperation with other stakeholders. Analyses trends and scientific findings in cybersecurity.",
+      "deliverables": [
+        "Publication in Cybersecurity"
+      ],
+      "main-tasks": [
+        "Advance the current state-of-the-art in cybersecurity-related topics",
+        "Analyse and assess cybersecurity technologies, solutions, developments and processes",
+        "Assist in cybersecurity-related capacity building including awareness, theoretical training, practical training, testing, mentoring, supervising and sharing",
+        "Assist in the development of innovative cybersecurity-related solutions",
+        "Conduct experiments and develop a proof of concept, pilots and prototypes for cybersecurity solutions",
+        "Conduct research, innovation and development work in cybersecurity-related topics",
+        "Contributes towards cutting-edge cybersecurity business ideas, services and solutions",
+        "Identify cross-sectoral cybersecurity achievements and apply them in a different context or propose innovative approaches and solutions",
+        "Lead or participate in the innovation processes and projects including project management and budgeting",
+        "Manifest and generate research and innovation ideas",
+        "Publish and present scientific works and research and development results",
+        "Select and apply frameworks, methods, standards, tools and protocols including a building and testing a proof of concept to support projects"
+      ],
+      "key-skills": [
+        "Collaborate with other team members and colleagues",
+        "Communicate, present and report to relevant stakeholders",
+        "Decompose and analyse systems to develop security and privacy requirements and identify effective solutions",
+        "Decompose and analyse systems to identify weaknesses and ineffective controls",
+        "Generate new ideas and transfer theory into practice",
+        "Identify and solve cybersecurity-related issues",
+        "Monitor new advancements in cybersecurity-related technologies"
+      ],
+      "key-knowledge": [
+        "Cybersecurity standards, methodologies and frameworks",
+        "Cybersecurity-related research, development and innovation (RDI)",
+        "Legal, regulatory and legislative requirements on releasing or using cybersecurity related technologies",
+        "Multidiscipline aspect of cybersecurity",
+        "Responsible information disclosure procedures"
+      ],
+      "e-competences": [
+        {
+          "name": "A.7. Technology Trend Monitoring",
+          "level": 5
+        },
+        {
+          "name": "A.9. Innovating",
+          "level": 5
+        },
+        {
+          "name": "D.7. Data Science and Analytics",
+          "level": 4
+        },
+        {
+          "name": "C.4. Problem Management",
+          "level": 3
+        },
+        {
+          "name": "D.10. Information and Knowledge Management",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjQwNnB0IiBoZWlnaHQ9IjM1MnB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCA0MDYgMzUyIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDM1Mikgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTE5MTMgMzE0MGMtODctNDQtMTI3LTkzLTI4Mi0zNTItMTYxLTI2OC0yNjItNDI2LTU5My05MzQtMzk2LTYwNS02MTktOTczLTY2NC0xMDkwLTY3LTE3NS0xMC0zMjAgMTUyLTM4NWw1OS0yNCAxNDA1LTNjMTI3NC0yIDE0MTItMSAxNDgwIDE0IDg2IDE5IDEyMyAzNSAxNjMgNzMgOTQgODcgOTcgMjMyIDEwIDQwNi03NiAxNTAtMzE0IDUzNC02ODUgMTEwMC0yNzggNDI2LTQzNCA2NzQtNTc5IDkxOS0xMzkgMjM1LTIwNyAyOTYtMzM5IDMwNC01NyAzLTczIDAtMTI3LTI4em0yMTMtNjA5YzYxLTI4IDEwOS03NSAxMzQtMTMzIDE5LTQ1IDIyLTY0IDE3LTEzMy05LTE0Mi0xMjYtODg1LTE0My05MTUtNDktODMtMTYzLTc4LTIwOCA5LTggMTUtMjQgOTQtMzYgMTc2LTEyIDgzLTQ0IDI4NS03MSA0NTAtNTMgMzE3LTU0IDM1Ni0xOSA0MjUgNjAgMTE1IDIxMyAxNzIgMzI2IDEyMXptMTAtMTQwOWM0OS0yNSAxMDgtODggMTI5LTEzOCAyMC01MCAxOS0xNDAtNC0xODktNTAtMTEwLTE4NS0xNzYtMjk3LTE0Ni05MiAyNS0xNzYgMTE4LTE4OSAyMTAtMTYgMTE3IDU3IDIzNCAxNzIgMjc3IDUwIDE5IDEzOCAxMiAxODktMTR6IiBmaWxsPSIjQ0IwNTM4Ii8+PC9nPjwvc3ZnPg==",
+      "title": "Cybersecurity Risk Manager",
+      "alternative-titles": [
+        "Cyber Risk Manager",
+        "Cybersecurity Impact Analyst",
+        "Cybersecurity Risk Assessor",
+        "Cybersecurity Risk Assurance Consultant",
+        "Cybersecurity Risk Manager",
+        "Information Security Risk Analyst"
+      ],
+      "summary-statement": "Manage the organisation's cybersecurity-related risks aligned to the organisation's strategy. Develop, maintain and communicate the risk management processes and reports.",
+      "mission": "Continuously manages (identifies, analyses, assesses, estimates, mitigates) the cybersecurity-related risks of ICT infrastructures, systems and services by planning, applying, reporting and communicating risk analysis, assessment and treatment. Establishes a risk management strategy for the organisation and ensures that risks remain at an acceptable level for the organisation by selecting mitigation actions and controls.",
+      "deliverables": [
+        "Cybersecurity Risk Assessment Report",
+        "Cybersecurity Risk Remediation Action Plan"
+      ],
+      "main-tasks": [
+        "Assess cybersecurity risks and propose most appropriate risk treatment options, including security controls and risk mitigation and avoidance that best address the organisation's strategy",
+        "Develop an organisation's cybersecurity risk management strategy",
+        "Develop, maintain, report and communicate complete risk management cycle",
+        "Ensure that all cybersecurity risks remain at an acceptable level for the organisation's assets",
+        "Identification of threat landscape including attackers' profiles and estimation of attacks' potential",
+        "Identify and assess cybersecurity-related threats and vulnerabilities of ICT systems",
+        "Manage an inventory of organisation's assets",
+        "Monitor effectiveness of cybersecurity controls and risk levels"
+      ],
+      "key-skills": [
+        "Analyse and consolidate organisation's quality and risk management practices",
+        "Build a cybersecurity risk-aware environment",
+        "Communicate, present and report to relevant stakeholders",
+        "Enable business assets owners, executives and other stakeholders to make risk-informed decisions to manage and mitigate risks",
+        "Implement cybersecurity risk management frameworks, methodologies and guidelines and ensure compliance with regulations and standards",
+        "Propose and manage risk-sharing options"
+      ],
+      "key-knowledge": [
+        "Computer systems vulnerabilities",
+        "Cyber threats",
+        "Cybersecurity controls and solutions",
+        "Cybersecurity risks",
+        "Cybersecurity-related certifications",
+        "Cybersecurity-related technologies",
+        "Monitoring, testing and evaluating cybersecurity controls' effectiveness",
+        "Risk management recommendations and best practices",
+        "Risk management standards, methodologies and frameworks",
+        "Risk management tools"
+      ],
+      "e-competences": [
+        {
+          "name": "E.3. Risk Management",
+          "level": 4
+        },
+        {
+          "name": "E.5. Process Improvement",
+          "level": 3
+        },
+        {
+          "name": "E.7. Business Change Management",
+          "level": 4
+        },
+        {
+          "name": "E.9. Information Systems Governance",
+          "level": 4
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjQzM3B0IiBoZWlnaHQ9IjMxNXB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCA0MzMgMzE1Ij48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDMxNSkgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTI2NTMgMjc2NmMtMTUxLTI5LTMxNC05NS00MzgtMTc5LTg0LTU3LTIyNi0xOTctMjg2LTI4NC02OC05OS0xMzUtMjQyLTE2Ni0zNjAtMjQtODgtMjctMTE2LTI3LTI3OC0xLTE2NiAxLTE4OCAyNy0yODggMTYtNjAgMjctMTEwIDI1LTExMXMtNjMtMjktMTM2LTYzbC0xMzMtNjItNDIgMTljLTI1IDEyLTY1IDIwLTk3IDIwLTUxIDAtODYtMTUtNDgwLTIwMS0yMzQtMTExLTQzNy0yMTAtNDUyLTIyMC0zNS0yNS02NC03My03OC0xMzEtMzYtMTQzIDEwOC0yOTEgMjUxLTI1OSA3MyAxNiA4NzkgNDAzIDkxNiA0MzkgMTggMTcgNDAgNTQgNTAgODFsMTcgNTAgMTQ0IDY2Yzc5IDM3IDE0NCA2NiAxNDYgNjRzMTgtMjYgMzYtNTNjNTEtNzYgMTY2LTE5MyAyNTQtMjU4IDU1OS00MTcgMTM3OS0yMDkgMTY3NSA0MjMgMTQ4IDMxNSAxNDQgNjYzLTkgOTc2LTE0NiAyOTctNDAxIDUwMy03MzAgNTkwLTExOCAzMS0zNTIgNDEtNDY3IDE5em00MTctMjMxYzk0LTI0IDI1NS0xMDUgMzM2LTE2OCAxNTUtMTIyIDI3Mi0zMDUgMzIxLTUwNCAyNS0xMDUgMjMtMzA0LTUtNDE4LTc4LTMxMy0zMzMtNTcyLTY0Ny02NTctMTA5LTI5LTMzNi0zMS00MzktNC0yNjIgNzAtNDc2IDI0MS01OTYgNDc2LTEwNSAyMDctMTIwIDQ4NS0zNyA3MTIgMTA3IDI5NCAzODAgNTIyIDY4OSA1NzcgNzggMTQgMzAxIDYgMzc4LTE0eiIgZmlsbD0iI0Y5QjIzMyIvPjxwYXRoIGQ9Im0yNTQ1IDIzMDljLTU0LTEzLTEwMi02Mi0xMjAtMTIzLTE5LTY0LTE5LTIxOCAwLTI4MiAyNi05MCAxMDAtMTMxIDIwNC0xMTIgOTYgMTcgMTQxIDEwMSAxNDEgMjYzIDAgMTU5LTM4IDIzMy0xMzAgMjU0LTI1IDYtNDcgMTAtNTAgMTAtMy0xLTIzLTUtNDUtMTB6bTg5LTk1YzI1LTI0IDMxLTYwIDMxLTE3NiAwLTkzLTMtMTEwLTIxLTEzNS0zNi00OC05My00NC0xMTUgOS0xNSAzNi0xOSAyMTQtNiAyNjAgMTAgMzggMzQgNTggNjcgNTggMTYgMCAzNi03IDQ0LTE2eiIgZmlsbD0iI0Y5QjIzMyIvPjxwYXRoIGQ9Im0yOTUwIDIyNjhjLTUwLTMzLTY2LTQ5LTY4LTcxLTQtMzcgMTktNDQgNjEtMTggMTkgMTIgMzcgMjEgNDEgMjEgMyAwIDYtNzQgNi0xNjV2LTE2NWgtNDljLTQxIDAtNTEtNC01Ni0yMC0zLTEwLTEtMjggNS00MCAxMC0xOSAyMC0yMCAxNDktMjAgMTQ5IDAgMTY2IDUgMTU5IDUyLTMgMjAtMTAgMjMtNTAgMjZsLTQ4IDMtMiAyMTctMyAyMTctNDAgM2MtMzMgMi01Mi01LTEwNS00MHoiIGZpbGw9IiNGOUIyMzMiLz48cGF0aCBkPSJtMjc2NSAxNjc2Yy03OS0zNC0xMTAtMTE5LTEwNC0yODcgNS0xMjkgMjQtMTczIDkwLTIwNyA4OC00NiAxOTgtMTIgMjQxIDc2IDIwIDQyIDIzIDYxIDIzIDE3NyAwIDEyMC0yIDEzMy0yNSAxNzUtMTUgMjgtMzkgNTItNjAgNjItNDEgMjEtMTIyIDIzLTE2NSA0em0xMTgtODRjMzctNDEgNDctMjM3IDE2LTMwNS0xNy0zOC02Mi01NC05My0zMy0zMiAyMS00NiA3Mi00NiAxNzEgMCA4OSAxMSAxMzggMzYgMTY2IDIyIDI0IDY2IDI0IDg3IDF6IiBmaWxsPSIjRjlCMjMzIi8+PHBhdGggZD0ibTIzNDggMTYyOWMtNTItMzUtNTgtNDQtNTgtNzQgMC0xOSAyLTM1IDUtMzVzMjggMTEgNTUgMjVsNTAgMjV2LTE2NC0xNjVsLTUyLTMtNTMtMy0zLTM3LTMtMzhoMTU2IDE1NmwtMyAzOGMtMyAzNy0zIDM3LTUwIDQwbC00OCAzdjIxNSAyMTRsLTQ3LTFjLTM5IDAtNTktNy0xMDUtNDB6IiBmaWxsPSIjRjlCMjMzIi8+PHBhdGggZD0ibTMxNjggMTYyOWMtNTItMzUtNTgtNDQtNTgtNzQgMC0xOSAzLTM1IDgtMzUgNCAwIDI3IDExIDUxIDI1IDIzIDE0IDQ1IDI1IDQ3IDI1czQtNzQgNC0xNjV2LTE2NWgtNTUtNTV2LTQwLTQxbDE1MyAzIDE1MiAzdjM1YzAgMzUgMCAzNS00NyAzOGwtNDggM3YyMTUgMjE0bC00Ny0xYy0zOSAwLTU5LTctMTA1LTQweiIgZmlsbD0iI0Y5QjIzMyIvPjwvZz48L3N2Zz4=",
+      "title": "Digital Forensics Investigator",
+      "alternative-titles": [
+        "Computer Forensics Consultant",
+        "Cybersecurity & Forensic Specialist",
+        "Digital Forensics Analyst",
+        "Digital Forensics Investigator"
+      ],
+      "summary-statement": "Ensure the cybercriminal investigation reveals all digital evidence to prove the malicious activity.",
+      "mission": "Connects artefacts to natural persons, captures, recovers, identifies and preserves data, including manifestations, inputs, outputs and processes of digital systems under investigation. Provides analysis, reconstruction and interpretation of the digital evidence based on a qualitative opinion. Presents an unbiased qualitative view without interpreting the resultant findings.",
+      "deliverables": [
+        "Digital Forensics Analysis Results",
+        "Electronic Evidence"
+      ],
+      "main-tasks": [
+        "Develop digital forensics investigation policy, plans and procedures",
+        "Identify, recover, extract, document and analyse digital evidence",
+        "Inspect environments for evidence of unauthorised and unlawful actions",
+        "Preserve and protect digital evidence and make it available to authorised stakeholders",
+        "Select and customise forensics testing, analysing and reporting techniques",
+        "Systematically and deterministic document, report and present digital forensic analysis findings and results"
+      ],
+      "key-skills": [
+        "Collect information while preserving its integrity",
+        "Develop and communicate, detailed and reasoned investigation reports",
+        "Explain and present digital evidence in a simple, straightforward and easy to understand way",
+        "Identify, analyse and correlate cybersecurity events",
+        "Work ethically and independently; not influenced and biased by internal or external actors"
+      ],
+      "key-knowledge": [
+        "Computer networks security",
+        "Computer systems vulnerabilities",
+        "Criminal investigation procedures, standards, methodologies and frameworks",
+        "Cyber threats",
+        "Cybersecurity attack procedures",
+        "Cybersecurity related laws, regulations and legislations ",
+        "Cybersecurity-related certifications",
+        "Digital forensics analysis procedures",
+        "Digital forensics recommendations and best practices",
+        "Digital forensics standards, methodologies and frameworks",
+        "Malware analysis tools",
+        "Operating systems security",
+        "Testing procedures"
+      ],
+      "e-competences": [
+        {
+          "name": "A.7. Technology Trend Monitoring",
+          "level": 3
+        },
+        {
+          "name": "B.3. Testing",
+          "level": 4
+        },
+        {
+          "name": "B.5. Documentation Production",
+          "level": 3
+        },
+        {
+          "name": "E.3. Risk Management",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjYwOXB0IiBoZWlnaHQ9IjQ4MnB0IiB2ZXJzaW9uPSIxLjAiIHZpZXdCb3g9IjAgMCA2MDkgNDgyIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwIDQ4Mikgc2NhbGUoLjEgLS4xKSI+PHBhdGggZD0ibTMzNzEgMzk4Ni0xNjEtMzE0IDMyLTI0MiAzMy0yNDIgNzctMzljNDMtMjEgODItMzkgODgtMzkgNSAwIDUzIDg2IDEwNSAxOTAgNTIgMTA1IDk4IDE5MCAxMDEgMTkwIDQgMCAzOTktMTk4IDg3OS00NDBzODc1LTQ0MCA4NzktNDQwYzMgMCA0MiA3MiA4NiAxNTlsNzkgMTYwLTIzMiAxMTljLTEyNyA2Ni01MTYgMjYyLTg2MiA0MzUtMzQ3IDE3NC02MzkgMzIzLTY0OSAzMzAtMTggMTMtMTYgMjAgNDcgMTQwIDM3IDY5IDY3IDEzMSA2NyAxMzYgMCA5LTM4OCAyMTEtNDA0IDIxMS0zIDAtNzctMTQxLTE2NS0zMTR6IiBmaWxsPSIjQ0IwNTM4Ii8+PHBhdGggZD0ibTI4NjkgMzk1NmMtNDYtMjMtNDYtMjcgMTktMzY3IDM3LTE5MiA2OC0zMzAgNzctMzM4IDIwLTIxIDc1LTE4IDkxIDQgOCAxMCAxNCAzMCAxNCA0NC0xIDQ3LTExOCA2MzEtMTI5IDY0NS0xNyAyMC00NiAyNS03MiAxMnoiIGZpbGw9IiNDQjA1MzgiLz48cGF0aCBkPSJtMjIwMiAzNzg5Yy0yOC0xMS00Mi00Ni0zMC04MCA1LTE0IDEwOS0xMjUgMjMxLTI0NyAxOTYtMTk1IDIyNy0yMjIgMjU0LTIyMiAzNCAwIDYzIDI5IDYzIDYzIDAgMjMtNDMwIDQ2Ny00NjkgNDgzLTE2IDctMzUgOC00OSAzeiIgZmlsbD0iI0NCMDUzOCIvPjxwYXRoIGQ9Im0zNjU1IDMwOTNjLTgyLTQ3LTE1My05MS0xNTctOTctMTItMTctOS03MSA0LTg0IDI3LTI3IDc0LTExIDIyNyA3NiAxNjkgOTYgMTg5IDExNyAxNTcgMTY3LTI4IDQzLTY2IDMzLTIzMS02MnoiIGZpbGw9IiNDQjA1MzgiLz48cGF0aCBkPSJtODgxIDMxMTljLTE4My0zNi0zMzMtMTk2LTM2MS0zODQtNy00Ni0xMC0zNzMtOC05NTVsMy04ODUgMjMtNjNjNTQtMTQ5IDE1NS0yNDcgMzAxLTI5MiA2MS0xOSA5Ny0yMCAxMTMwLTIwIDY4MiAwIDEwODIgNCAxMTEwIDExIDExNiAyNiAyNDMgMTI0IDI5NSAyMjYgNTcgMTE0IDU2IDg5IDU2IDEwNjAgMCA2MTItMyA5MDktMTEgOTQ1LTI3IDEyOS0xMjUgMjYwLTIzMyAzMTMtMTE4IDU3LTgwIDU1LTEyMTYgNTQtNTc1LTEtMTA2NS01LTEwODktMTB6bTIxMi0zNDdjNTctMzMgNzItODEgNzItMjI3IDAtMTIwLTItMTMzLTI1LTE3NC0zMy01OS03OS04Ni0xNTAtODYtNjggMS0xMTAgMjQtMTQxIDc5LTE4IDMyLTIzIDYwLTI3IDE0MS03IDE2MSAyOCAyNDkgMTEzIDI4MCA0OCAxOCAxMTYgMTIgMTU4LTEzem05NTAgMGM1Ny0zMyA3Mi04MSA3Mi0yMjcgMC0xMjAtMi0xMzMtMjUtMTc0LTM0LTYxLTc5LTg2LTE1My04NS0xMjYgMi0xNzggOTUtMTY0IDI5NSA4IDEyMSA0NiAxODQgMTI2IDIxMCAzNiAxMiAxMDkgMiAxNDQtMTl6bTk1MSAwYzU5LTM1IDcxLTcxIDcxLTIyMiAwLTEyMS0yLTEzOS0yMy0xNzctMzYtNjgtMTAwLTk5LTE4Mi04Ny0xMDEgMTUtMTQ3IDExMS0xMzggMjg2IDggMTI5IDQ0IDE5MiAxMjcgMjE5IDM2IDEyIDEwOSAyIDE0NS0xOXptLTE0NTYtMTk0IDItMjA4aDQ2IDQ1bC0zLTM3LTMtMzhoLTE0NS0xNDV2MzUgMzVsNTMgMyA1MiAzdjE2MGMwIDg3LTIgMTU5LTQgMTU5cy0yMy0xMS00Ny0yNGMtNDktMjgtNTktMjYtNTkgMTQgMCAyNSA5IDM2IDYzIDcwIDUwIDMyIDcwIDQwIDEwMiAzOGw0MC0zIDMtMjA3em05NTAgMCAyLTIwOGg0NiA0NWwtMy0zNy0zLTM4aC0xNDUtMTQ1djM1IDM1bDUzIDMgNTIgM3YxNjBjMCA4Ny0yIDE1OS00IDE1OXMtMjMtMTEtNDctMjRjLTQ5LTI4LTU5LTI2LTU5IDEzIDAgMjQgMTAgMzUgNjMgNzAgNTEgMzQgNjkgNDEgMTAyIDM5bDQwLTMgMy0yMDd6bTE4LTUxOWM2OC0zMyA4OS04NSA4OS0yMjkgMC0xMDMtMy0xMjAtMjUtMTY1LTM0LTY5LTc3LTk1LTE1Mi05NS0xMDcgMC0xNTIgNDUtMTY4IDE3MS0xMCA4MyAxIDIwMyAyNCAyNDYgNDQgODYgMTQyIDExNiAyMzIgNzJ6bS0xNDQ2LTE5OHYtMjEwbDQ4LTNjNDAtMyA0Ny02IDUwLTI2IDctNDYtMTAtNTItMTU1LTUyLTEyOSAwLTEzNCAxLTE0MiAyMi0xNiA0My0zIDU4IDUwIDU4aDQ5djE2MWMwIDg4LTMgMTU5LTcgMTU3LTUtMi0yNS0xMi00Ni0yMy0yNy0xNC00MC0xNi00OC04LTM3IDM3IDc4IDEzMyAxNTkgMTMzaDQydi0yMDl6bTQ4MC0xdi0yMTBoNDYgNDVsLTMtMzctMy0zOGgtMTQ1LTE0NXYzNSAzNWw1MyAzIDUyIDN2MTYwYzAgODctMyAxNTktNyAxNTktNSAwLTIzLTktNDEtMjAtNDYtMjgtNjItMjYtNjIgMTAgMCAyNCA5IDM2IDU4IDY5IDQ2IDMzIDY2IDQwIDEwNSA0MGw0NyAxdi0yMTB6bTQ3MCAwdi0yMTBoNDVjNTAgMCA2Mi0xMiA1MS01NWwtNy0yNi0yODQgNi0zIDM4LTMgMzdoNTAgNTF2MTYwIDE2MGwtNDUtMjJjLTMzLTE2LTQ4LTE5LTU2LTExLTM3IDM3IDc4IDEzMyAxNTkgMTMzaDQydi0yMTB6bTk1MCAxdi0yMTBsNDgtM2M0Ny0zIDQ3LTMgNDctMzh2LTM1aC0xNDUtMTQ1bC0zIDM4LTMgMzdoNTAgNTF2MTYwIDE2MGwtNDYtMjJjLTM5LTE5LTQ2LTIwLTU0LTgtNyAxMi01IDQ5IDQgNTYgNTMgNDMgMTE3IDc0IDE1MyA3NGg0M3YtMjA5em0tMTg2Mi01MjhjNTAtMzcgNjUtNzYgNzAtMTg1IDEwLTIwNy00NS0yOTgtMTgxLTI5OC02NyAwLTExMyAyOC0xNDIgODUtMTcgMzQtMjAgNjAtMjAgMTY1IDAgMTA4IDMgMTMwIDIyIDE2NSAzOSA3NCA3OSA5NiAxNjYgOTIgMzgtMiA2Ni0xMCA4NS0yNHptNDYyIDljMjMtMTIgNDMtMzUgNjAtNjggMjItNDQgMjUtNjEgMjUtMTY0cy0zLTEyMC0yNS0xNjVjLTM0LTY3LTc3LTk1LTE0Ny05NS0xMDkgMC0xNTUgNDYtMTczIDE3MC0yMSAxNDggMTQgMjc1IDg3IDMxOCA0OCAyNyAxMjUgMjkgMTczIDR6bTQyNyAxMmMyMi02IDIzLTkgMjUtMjEzbDMtMjA2IDQ1LTVjNDItNSA0NS03IDQ1LTM1di0zMGwtMTQ3LTMtMTQ4LTN2MzYgMzVoNTAgNTB2MTYwYzAgODgtMiAxNjAtNiAxNjAtMyAwLTIzLTEwLTQ1LTIyLTM0LTIwLTQxLTIxLTQ5LTgtMjMgMzYgMiA2NyA5MSAxMTMgNTkgMzAgNTUgMjkgODYgMjF6bTUyMy0xMmMyMy0xMiA0My0zNSA2MC02OCAyMi00NCAyNS02MSAyNS0xNjRzLTMtMTIwLTI1LTE2NWMtMzQtNjgtNzctOTUtMTQ5LTk1LTcxIDAtMTE5IDI1LTE0NCA3NC00MiA4MS00MCAyNzggNCAzNTYgNDIgNzQgMTUwIDEwMyAyMjkgNjJ6bTQyNyAxMmMyMi02IDIzLTkgMjUtMjEzbDMtMjA2IDQ4LTNjNDgtMyA0OC00IDQ1LTM1bC0zLTMyLTE0Ny0zLTE0OC0zdjM2IDM1aDUwIDUwdjE2MGMwIDg4LTMgMTYwLTcgMTYwLTUgMC0yMS05LTM4LTIwLTM3LTI1LTUxLTI1LTU3LTItOCAzMCA1IDUwIDU3IDgzIDc0IDQ3IDg4IDUyIDEyMiA0M3oiIGZpbGw9IiNDQjA1MzgiLz48cGF0aCBkPSJtOTYzIDI3MDVjLTEyLTktMjctMzItMzMtNTMtMTMtNDgtMTMtMTc2IDEtMjI1IDIxLTc2IDk1LTgzIDEyNC0xMiAxOCA0MCAyMCAxODIgNSAyMzctMTAgMzUtNDEgNjgtNjUgNjgtNiAwLTIwLTctMzItMTV6IiBmaWxsPSIjQ0IwNTM4Ii8+PHBhdGggZD0ibTE5MDUgMjY5NmMtMjgtMjgtNDAtMTA2LTMyLTIwNyA5LTEwMiAzNy0xNDAgOTItMTE5IDQzIDE3IDU4IDY4IDUzIDE5My0zIDEwNS00IDExMC0zMSAxMzMtMzUgMzAtNTIgMzAtODIgMHoiIGZpbGw9IiNDQjA1MzgiLz48cGF0aCBkPSJtMjg2MSAyNzAzYy0yNy0yMi00MS03Ni00MS0xNjMgMC0xNTQgNTMtMjE4IDEyNC0xNDkgMzQgMzIgMzYgMjU3IDIgMzAxLTIwIDI3LTU5IDMyLTg1IDExeiIgZmlsbD0iI0NCMDUzOCIvPjxwYXRoIGQ9Im0yMzg3IDE5ODhjLTI3LTIxLTM3LTY1LTM3LTE2NyAwLTExNSAxMi0xNTkgNDYtMTY3IDY0LTE2IDkwIDE2IDEwMCAxMjQgMTQgMTU1LTQxIDI2MS0xMDkgMjEweiIgZmlsbD0iI0NCMDUzOCIvPjxwYXRoIGQ9Im05NTkgMTI3MGMtMjctMTUtNDItMTAyLTM3LTIwMSA2LTEwMSAyMy0xMzkgNjQtMTM5IDYzIDAgODQgNDMgODQgMTc1IDAgMTI3LTIxIDE3Ni03NyAxNzUtMTAgMC0yNS01LTM0LTEweiIgZmlsbD0iI0NCMDUzOCIvPjxwYXRoIGQ9Im0xNDI0IDEyNTljLTE3LTE5LTE5LTM3LTE5LTE1NHMyLTEzNSAxOS0xNTRjMjQtMjYgNjctMjcgOTAtMiA0MyA0OCA0MyAyNjUgMCAzMTItMjMgMjUtNjYgMjQtOTAtMnoiIGZpbGw9IiNDQjA1MzgiLz48cGF0aCBkPSJtMjM3MyAxMjU0Yy0xNS0yMy0xOC00OS0xOC0xNTUgMC0xMTIgMi0xMjkgMTktMTQ4IDI3LTMwIDczLTI0IDEwMCAxMiAxOCAyNSAyMSA0MiAyMSAxNDItMSAxMDAtMyAxMTgtMjEgMTQyLTMwIDQwLTc3IDQzLTEwMSA3eiIgZmlsbD0iI0NCMDUzOCIvPjxwYXRoIGQ9Im0zNzgwIDI2NzNjLTgyLTMtOTctNi0xMTItMjQtMjQtMjgtMjMtNjIgMy04NSAyMC0xOCAzNi0xOSAyMjgtMTUgMTEzIDEgMjE0IDcgMjIzIDEyIDQwIDIxIDQ1IDcwIDEyIDEwNC0xNiAxNS03OSAxNy0zNTQgOHoiIGZpbGw9IiNDQjA1MzgiLz48L2c+PC9zdmc+",
+      "title": "Penetration Tester",
+      "alternative-titles": [
+        "Cybersecurity Tester ",
+        "Defensive Cybersecurity Expert",
+        "Ethical Hacker",
+        "Offensive Cybersecurity Expert",
+        "Penetration Tester",
+        "Pentester",
+        "Red Team Expert",
+        "Red Teamer",
+        "Vulnerability Analyst"
+      ],
+      "summary-statement": "Assess the effectiveness of security controls, reveals and utilise cybersecurity vulnerabilities, assessing their criticality if exploited by threat actors.",
+      "mission": "Plans, designs, implements and executes penetration testing activities and attack scenarios to evaluate the effectiveness of deployed or planned security measures. Identifies vulnerabilities or failures on technical and organisational controls that affect the confidentiality, integrity and availability of ICT products (e.g. systems, hardware, software and services).",
+      "deliverables": [
+        "Penetration Testing Report",
+        "Vulnerability Assessment Results Report"
+      ],
+      "main-tasks": [
+        "Deploy penetration testing tools and test programs",
+        "Document and report penetration testing results to stakeholders",
+        "Establish procedures for penetration testing result analysis and reporting",
+        "Identify attack vectors, uncover and demonstrate exploitation of technical cybersecurity vulnerabilities",
+        "Identify, analyse and assess technical and organisational cybersecurity vulnerabilities",
+        "Organise test plans and procedures for penetration testing",
+        "Select and develop appropriate penetration testing techniques",
+        "Test systems and operations compliance with regulatory standards"
+      ],
+      "key-skills": [
+        "Communicate, present and report to relevant stakeholders",
+        "Conduct ethical hacking",
+        "Conduct technical analysis and reporting",
+        "Decompose and analyse systems to identify weaknesses and ineffective controls",
+        "Develop codes, scripts and programmes",
+        "Identify and exploit vulnerabilities",
+        "Identify and solve cybersecurity-related issues",
+        "Perform social engineering",
+        "Review codes assess their security",
+        "Think creatively and outside the box",
+        "Use penetration testing tools effectively"
+      ],
+      "key-knowledge": [
+        "Computer networks security",
+        "Computer programming",
+        "Computer systems vulnerabilities",
+        "Cybersecurity attack procedures",
+        "Cybersecurity recommendations and best practices",
+        "Cybersecurity-related certifications",
+        "Information technology (IT) and operational technology (OT) appliances",
+        "Offensive and defensive security procedures",
+        "Operating systems security",
+        "Penetration testing procedures",
+        "Penetration testing standards, methodologies and frameworks",
+        "Penetration testing tools"
+      ],
+      "e-competences": [
+        {
+          "name": "B.2. Component Integration",
+          "level": 4
+        },
+        {
+          "name": "B.3. Testing",
+          "level": 4
+        },
+        {
+          "name": "B.4. Solution Deployment",
+          "level": 2
+        },
+        {
+          "name": "B.5. Documentation Production",
+          "level": 3
+        },
+        {
+          "name": "E.3. Risk Management",
+          "level": 4
+        }
+      ]
+    }
+  ]
+}
