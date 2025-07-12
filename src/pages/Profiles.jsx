@@ -25,10 +25,10 @@ const Profiles = () => {
         <div className="row g-4 py-5 row-cols-1 row-cols-lg-3">
           {framework.roleProfiles.map(function(roleProfile){
             return (
-              <div className="col" key={ roleProfile.id } className="text-center">
+              <div className="col text-center" key={ roleProfile.id }>
                 <div className="d-inline-flex align-items-center justify-content-center fs-2 mb-3">
                   <Scroll.Link to={ 'full-profile-' + roleProfile.id } delay={0} style={{ cursor: 'pointer' }}>
-                    <img src={ roleProfile.icon } style={{ maxWidth: '80px', maxHeight: '80px' }}/>
+                    <img src={ roleProfile.icon } alt={roleProfile.title.text} style={{ maxWidth: '80px', maxHeight: '80px' }}/>
                   </Scroll.Link>
                 </div>
                 <Scroll.Link to={ 'full-profile-' + roleProfile.id } delay={0} style={{ cursor: 'pointer' }}>
@@ -70,7 +70,7 @@ const Profiles = () => {
               <p className="lead mb-4">
                 Grab a copy of the<br/>
                 ECSF Framework document on<br/>
-                <a href="https://www.enisa.europa.eu/publications/european-cybersecurity-skills-framework-role-profiles" target="_blank" style={{textDecoration: 'none'}}>
+                <a href="https://www.enisa.europa.eu/publications/european-cybersecurity-skills-framework-role-profiles" target="_blank" rel="noreferrer" style={{textDecoration: 'none'}}>
                   ENISA's website
                 </a>.
               </p>
@@ -103,7 +103,7 @@ const Profiles = () => {
               <Scroll.Element name={ 'full-profile-' + roleProfile.id } key={ roleProfile.id }>
                 <div className="row">
                   <div className="col-12 py-4">
-                    <img src={ roleProfile.icon } className="float-left" style={{ maxWidth: '48px', maxHeight: '48px', verticalAlign: 'middle' }}/>
+                    <img src={ roleProfile.icon } alt={roleProfile.title.text} className="float-left" style={{ maxWidth: '48px', maxHeight: '48px', verticalAlign: 'middle' }}/>
                     <span className="h5 text-uppercase ms-1" style={{ color: roleProfile.color }}>
                       {roleProfile.title.text}
                     </span>
@@ -205,7 +205,7 @@ const Profiles = () => {
                             <td>
                               {roleProfile.eCompetences.map(function(eCompetence, i){
                                 return (
-                                  <div key={ i }>{ eCompetence.id + ' ' + eCompetence.text + ' ' + `(Level ${eCompetence.level})` }</div>
+                                  <div key={ i }>{ `${eCompetence.id} ${eCompetence.text} (Level ${eCompetence.level})` }</div>
                                 );
                               })}
                             </td>

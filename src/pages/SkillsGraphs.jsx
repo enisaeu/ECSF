@@ -3,9 +3,7 @@ import { useRef, useEffect, useState } from "react";
 import Framework from '../framework/Framework';
 
 import ECSFLogo from '../ecsf-logo-dark.svg';
-import { Funnel, CircleFill, XLg, Gear, Journals } from 'react-bootstrap-icons';
-
-import Card from 'react-bootstrap/Card';
+import { Gear } from 'react-bootstrap-icons';
 
 // React Chart Component using D3 for Sankey Graph with Labels and Colors
 import * as d3 from "d3";
@@ -13,8 +11,6 @@ import { sankey, sankeyLinkHorizontal, sankeyLeft } from "d3-sankey";
 
 const SankeyChart = ({data, height, translateTitle, translateLabel}) => {
   const svgRef = useRef();
-  //if (!data | !data.nodes || !data.links)
-  //  return <svg ref={svgRef}></svg>;
   if (!height) height = 450;
   if (!translateTitle) translateTitle = (text) => text;
   if (!translateLabel) translateLabel = (text) => text;
@@ -88,7 +84,7 @@ const SankeyChart = ({data, height, translateTitle, translateLabel}) => {
       .attr("stroke-opacity", 0.25)
       .append("title")
       .text(d => `${translateTitle(d.source.name)} → ${translateTitle(d.target.name)}\n${d.value}`);
-  }, [data.nodes, data.links]);
+  }, [data, data.nodes, data.links, translateLabel, translateTitle, height]);
 
   return <svg ref={svgRef}></svg>;
 };
@@ -101,9 +97,9 @@ const RewireCategoriesGraph = ({ framework }) => {
   let skills = framework.keySkills.map((skill, i) => ({id: `S${i+1}`, text: skill.text, tags: skill.tags}));
 
   let nodes = [
-    ... groups.tags.map(tag => groups.getText(tag)),
-    ... categories.tags.map(tag => categories.getText(tag)),
-    ... skills.map((skill) => skill.id)
+    ...groups.tags.map(tag => groups.getText(tag)),
+    ...categories.tags.map(tag => categories.getText(tag)),
+    ...skills.map((skill) => skill.id)
   ];
 
   let links = [];
@@ -112,7 +108,7 @@ const RewireCategoriesGraph = ({ framework }) => {
     if (targetIndex < 0) return;
 
     let linkedSkills = skills.filter(skill => {
-      return skill.tags.some(tag => tag.key == target);
+      return skill.tags.some(tag => tag.key === target);
     });
 
     categories.getLinks(target).forEach(source => {
@@ -139,7 +135,7 @@ const RewireCategoriesGraph = ({ framework }) => {
     },
     height: (skills.length * 16),
     translateTitle: (text) => {
-      let skill = skills.find(skill => skill.id == text);
+      let skill = skills.find(skill => skill.id === text);
       if (skill) return `${skill.id}: ${skill.text}`;
       return text;
     },
@@ -150,7 +146,6 @@ const RewireCategoriesGraph = ({ framework }) => {
 const SkillsGraphs = () => {
   const [loading, setLoading] = useState(true);
   const [framework, setFramework] = useState(null);
-  const [filters, setFilters] = useState([]);
 
   useEffect(() => {
     // Load framework data
@@ -160,36 +155,6 @@ const SkillsGraphs = () => {
     // Disable loading
     setLoading(false);
   }, []);
-
-  const handleNewFilter = (e) => {
-    let tag = framework.getTag(e.target.value);
-    if (!tag) return;
-
-    let group = framework.filters.forSkills.find(group => group.includes(tag));
-    if (!group) return;
-
-    if (!filters.includes(tag.key)) {
-      setFilters([...filters, tag]);
-    }
-  }
-
-  const handleRemoveFilter = (e) => {
-    let tag = framework.getTag(e.target.dataset.tag);
-    if (!tag) return;
-
-    let index = filters.indexOf(tag);
-    if (index > -1) {
-      filters.splice(index, 1);
-      setFilters([...filters]);
-    }
-  }
-
-  //const items2display = framework ? framework.keySkills.filter(function(item, i){
-  //  for (let i = filters.length - 1; i >= 0; i--) {
-  //    if (!item.tags.includes(filters[i])) return false;
-  //  }
-  //  return true;
-  //}) : [];
 
   return (
     <>

@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import Framework from '../framework/Framework';
 
 import ECSFLogo from '../ecsf-logo-dark.svg';
-import { Funnel, CircleFill, XLg, ListTask, Gear, Journals } from 'react-bootstrap-icons';
+import { Funnel, CircleFill, XLg, ListTask } from 'react-bootstrap-icons';
 
 import Card from 'react-bootstrap/Card';
 
@@ -100,6 +100,9 @@ const Tasks = () => {
                                             <option value={ tag.key } key={ 'filter-group-item-' + j }>{ group.getText(tag) }</option>
                                           );
                                         }
+                                        return (
+                                          <></>
+                                        );
                                       })}
                                     </select>
                                   </div>

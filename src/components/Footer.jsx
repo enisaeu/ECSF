@@ -12,10 +12,10 @@ const Footer = () => {
       <div className="container text-muted text-center">
         <small>
           &copy; {new Date().getFullYear()} by the{' '}
-          <a className="text-muted" href="https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/ad-hoc-working-group-on-the-european-cybersecurity-skills-framework-2023-2025" target="_blank" style={{textDecoration: 'none'}}>
+          <a className="text-muted" href="https://www.enisa.europa.eu/topics/skills-and-competences/skills-development/european-cybersecurity-skills-framework-ecsf/ad-hoc-working-group-on-the-european-cybersecurity-skills-framework-2023-2025" target="_blank" rel="noreferrer" style={{textDecoration: 'none'}}>
             Ad-Hoc Working Group on the European Cybersecurity Skills Framework
           </a>, working under the guidance of{' '}
-          <a className="text-muted" href="https://www.enisa.europa.eu/" target="_blank" style={{textDecoration: 'none'}}>
+          <a className="text-muted" href="https://www.enisa.europa.eu/" target="_blank" rel="noreferrer" style={{textDecoration: 'none'}}>
             ENISA
           </a>.
         </small>

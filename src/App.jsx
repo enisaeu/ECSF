@@ -1,5 +1,5 @@
 import { useLayoutEffect } from 'react';
-import { HashRouter, Routes, Route, useLocation  } from "react-router-dom";
+import { HashRouter, Routes, Route, useLocation, Navigate } from "react-router-dom";
 
 //import logo from './logo.svg';
 //import './App.css';
@@ -42,6 +42,7 @@ const App = () => {
             <Route path="/skills-graphs" element={<SkillsGraphs />} />
             <Route path="/knowledge" element={<Knowledge />} />
             <Route path="/about" element={<About />} />
+            <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
         </div>
         <Footer />

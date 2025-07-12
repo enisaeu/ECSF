@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Card from 'react-bootstrap/Card';
 
 import ECSFLogo from '../ecsf-logo-dark.svg';
 import { People, FiletypePdf } from 'react-bootstrap-icons';
@@ -20,7 +19,7 @@ const Home = () => {
             <Link role="button" to="/profiles" className="btn btn-primary btn-lg px-4 gap-3">
               <People/> Explore the Profiles
             </Link>
-            <a href="https://www.enisa.europa.eu/publications/european-cybersecurity-skills-framework-ecsf" target="_blank" className="btn btn-outline-secondary btn-lg px-4">
+            <a href="https://www.enisa.europa.eu/publications/european-cybersecurity-skills-framework-ecsf" target="_blank" rel="noreferrer" className="btn btn-outline-secondary btn-lg px-4">
               <FiletypePdf/> Get the Manual
             </a>
           </div>

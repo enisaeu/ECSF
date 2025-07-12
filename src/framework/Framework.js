@@ -173,7 +173,7 @@ class FrameworkInstance {
 
 	getTagGroup(id) {
 		id = id.toString().endsWith('@') ? id.toString() : id.toString() + '@';
-		return this.tagGroups.find(group => group.prefix == id);
+		return this.tagGroups.find(group => group.prefix === id);
 	}
 }
 
@@ -187,6 +187,10 @@ const Framework = (version) => {
 	case '1':
 	case 'v1':
 		source = ECSFv1;
+		break;
+	default:
+		source = ECSFv1;
+		break;
 	}
 
 	if (!source) return null;
