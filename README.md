@@ -41,4 +41,4 @@ To generate static files for production deployment, run the following build scri
 npm run build
 ```
 
-After the build completes, the production-ready files will be available in the `./build` directory..
+After the build completes, the production-ready files will be available in the `./build` directory.
