@@ -1,6 +1,6 @@
 {
-  "name": "ECSF Tool",
-  "homepage": "http://gramthanos.github.io/ecsf-dev",
+  "name": "ECSF Web Tool",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
