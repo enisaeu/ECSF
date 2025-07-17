@@ -1,3 +1,5 @@
+![ECSF Logo](public/ecsf.png)
+
 # European Cybersecurity Skills Framework (ECSF)
 
 A practical tool to support the identification and articulation of tasks, competences, skills and knowledge associated with the roles of European cybersecurity professionals, serving as the EU reference point for defining and assessing cybersecurity-related skills.
