@@ -21,12 +21,12 @@ const Footer = () => {
         </small>
       </div>
       <div style={{ height: '80px' }}></div>
-      <div style={{ position: 'fixed', bottom: '15px', right: '15px', zIndex: '1' }}>
+      { /*<div style={{ position: 'fixed', bottom: '15px', right: '15px', zIndex: '1' }}>
         <Alert className="mb-0 text-center" key="warning" variant="warning" style={{ width: '300px' }}>
           <strong><ExclamationTriangleFill/> Warning</strong><br/>
           This web app is work in progress!<br/>
         </Alert>
-      </div>
+      </div> */ }
     </footer>
   );
 };
